@@ -1,0 +1,45 @@
+name: Download and store files
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 * * * *'  # 每1小时运行一次
+
+jobs:
+  download-and-store:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Download files
+        run: |
+          curl -L  https://epg.pw/test_channels_china.m3u  -o test_channels_china.m3u
+      
+      - name: Download files2
+        run: |
+          curl -L  https://epg.pw/test_channels_hong_kong.m3u    -o test_channels_hong_kong.m3u
+      
+      - name: Download files3
+        run: |
+          curl -L  https://epg.pw/test_channels_taiwan.m3u    -o test_channels_taiwan.m3u
+          
+      - name: Download files4
+        run: |
+          curl -L  https://epg.pw/test_channels_macau.m3u    -o test_channels_macau.m3u
+          
+      - name: Download files5
+        run: |
+          curl -L  https://epg.pw/test_channels_japan.m3u    -o test_channels_japan.m3u
+          
+      - name: Download files6
+        run: |
+          curl -L  https://epg.pw/test_channels_united_states.m3u    -o test_channels_united_states.m3u      
+        
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Download and store files (auto)"
+          commit_options: "--no-verify"
