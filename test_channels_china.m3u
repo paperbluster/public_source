@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/12/06/large/20221206000925375044_28.jpg" group-title="綜合",[SD]cctv+ 1 (600p) [not 24/7]
 https://epg.pw/stream/5e48b38e6d994b0252898c2041c2b64f8eee30cf0d383ea3401202d7228cafdf.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/12/06/large/20221206001108773034_29.jpg" group-title="新聞",[SD]cctv+ 2 (600p) [not 24/7]
+#EXTINF:-1 tvg-name="CCTV2" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/12/06/large/20221206001108773034_29.jpg" group-title="新聞",[SD]cctv+ 2 (600p) [not 24/7][geo-blocked]
 https://epg.pw/stream/b0c32806274141facbac97106b3a137988ffd95a7af3a3f4062ef97579b747d4.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/12/06/large/20221206001146782897_35.jpg" group-title="綜藝",[SD]cctv3[geo-blocked]
 https://epg.pw/stream/959a77be3466e009c0ce7b32ae63e29bd9ad8e336a375365d3010d0a28a69806.ctv
@@ -19,9 +19,9 @@ https://epg.pw/stream/7541583d22b5b52f9e19033caa5e0879ec652d72f6a6b48e9c70826f6f
 https://epg.pw/stream/32644b27df53a500dd42ddb0c101df37f0ada5c8d4bb5ed3f0612a65873b6de7.m3u8
 #EXTINF:-1 tvg-name="cgtn español (576p)" tvg-id="" tvg-country="中國大陸" tvg-language="西班牙語" tvg-logo="https://epg.pw/media/images/channel/2022/05/20/large/20220520002125587039_56.jpg" group-title="綜合",[BD]cbn español (1080p)[geo-blocked]
 https://epg.pw/stream/5c7c6c039e49edb01e679827d80e8f669566372911f75b76069dcf4af607a32a.m3u8
-#EXTINF:-1 tvg-name="cgtn français (576p) [not 24/7]" tvg-id="" tvg-country="中國大陸" tvg-language="法語" tvg-logo="https://epg.pw/media/images/channel/2022/05/20/large/20220520002319040251_53.jpg" group-title="綜合",[SD]cgtn français (576p) [not 24/7][geo-blocked]
+#EXTINF:-1 tvg-name="cgtn français (576p) [not 24/7]" tvg-id="" tvg-country="中國大陸" tvg-language="法語" tvg-logo="https://epg.pw/media/images/channel/2022/05/20/large/20220520002319040251_53.jpg" group-title="綜合",[SD]cgtn français (576p) [not 24/7]
 https://epg.pw/stream/182476bbeaf13251289573a758465d37f1716f737f8f770d4e5980a63eb4a88b.m3u8
-#EXTINF:-1 tvg-name="cgtn русский (576p)" tvg-id="" tvg-country="中國大陸" tvg-language="俄語" tvg-logo="https://epg.pw/media/images/channel/2022/05/20/large/20220520002527861002_28.jpg" group-title="綜合",[SD]cgtn русский (576p)[geo-blocked]
+#EXTINF:-1 tvg-name="cgtn русский (576p)" tvg-id="" tvg-country="中國大陸" tvg-language="俄語" tvg-logo="https://epg.pw/media/images/channel/2022/05/20/large/20220520002527861002_28.jpg" group-title="綜合",[SD]cgtn русский (576p)
 https://epg.pw/stream/cd17ab0f6da0511b921f1546eaa98aaf24f3d12f6a2dc680cc8a2e5cf1a59ee6.m3u8
 #EXTINF:-1 tvg-name="cgtndocumentary" tvg-id="" tvg-country="中國大陸" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/04/29/large/20220429020115798784_73.png" group-title="紀實",[SD]cgtndocumentary
 https://epg.pw/stream/e74b19c0f5a673f99a941b71773d85831310db3652ce6950a04f0d68beb2d131.m3u8
@@ -35,7 +35,7 @@ https://epg.pw/stream/644a1a93bcaecf2956cb90e8cd26f08f3c40fc56b41e902b2fcbca7a18
 https://epg.pw/stream/f39d5c30d103421345295a2456446a2255a0f8056ac1a322b938d08e2fad205f.m3u8
 #EXTINF:-1 tvg-name="上海教育高清" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/08/large/20220508004000234533_13.jpg" group-title="其它",[BD]上海教育高清
 https://epg.pw/stream/5b6177daa7c99837c418ba535ba368d2f3dc7dd57b7614497dd506bbe92364b5.m3u8
-#EXTINF:-1 tvg-name="之江纪录" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/09/03/large/20220903203458608954_74.png" group-title="紀實",[BD]之江纪录[geo-blocked]
+#EXTINF:-1 tvg-name="之江纪录" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/09/03/large/20220903203458608954_74.png" group-title="紀實",[BD]之江纪录
 https://epg.pw/stream/1c3841459ccfce2f969a8356933028f27b70aa51dc0a056c49c1e98f439d0e79.m3u8
 #EXTINF:-1 tvg-name="南京十八 (720p)" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531150202957175_96.jpg" group-title="綜合",[HD]南京十八 (720p)[geo-blocked]
 https://epg.pw/stream/2e20de6b7bc9777faefc9ed64ef069b643911600bf3ede60c8e7111b60309d35.m3u8
@@ -83,9 +83,9 @@ https://epg.pw/stream/2441d456f7c193e046f5e46289045c82d018dd2a0904d7aa8dc50524fa
 rtmp://live.sctvcloud.com/live/mytvzh?zsicd
 #EXTINF:-1 tvg-name="芜湖公共 (576p)" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101023238051358_73.jpg" group-title="綜合",[HD]芜湖公共 (576p)[geo-blocked]
 https://epg.pw/stream/6c2656a488bfa55098eb26261fd67b79dfd61d737bb2094818b5f8ed06d85210.m3u8
-#EXTINF:-1 tvg-name="萧山新闻综合 (720p) [not 24/7]" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101021019292176_54.jpg" group-title="新聞",[HD]萧山新闻综合 (720p) [not 24/7][geo-blocked]
+#EXTINF:-1 tvg-name="萧山新闻综合 (720p) [not 24/7]" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101021019292176_54.jpg" group-title="新聞",[HD]萧山新闻综合 (720p) [not 24/7]
 https://epg.pw/stream/358be976e29bc2b969bdf77e53e8e075532c33acfadd322b2a004535a8b1760f.m3u8
-#EXTINF:-1 tvg-name="萧山新闻综合 (720p) [not 24/7]" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101021019292176_54.jpg" group-title="新聞",[VGA]舟山新闻综合[geo-blocked]
+#EXTINF:-1 tvg-name="萧山新闻综合 (720p) [not 24/7]" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101021019292176_54.jpg" group-title="新聞",[BD]舟山新闻综合[geo-blocked]
 https://epg.pw/stream/90614ad542658061c38d8a45d79d6b13fe73a333541e413081264997404d422b.m3u8
 #EXTINF:-1 tvg-name="萧山新闻综合 (720p) [not 24/7]" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101021019292176_54.jpg" group-title="新聞",[VGA]舟山新聞綜合
 rtmp://tv.drs.yizu.tv/channellive/ch1?zsicd
@@ -107,7 +107,7 @@ rtmp://liveshowbak2.kan0512.com/norecord/ncsztv5_sd
 rtmp://liveshowbak2.kan0512.com/norecord/ncsztv2_sd
 #EXTINF:-1 tvg-name="蘇州電影娛樂" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101022222053424_96.jpg" group-title="電影",[SD]蘇州電影娛樂
 rtmp://liveshowbak2.kan0512.com/norecord/ncsztv4_sd
-#EXTINF:-1 tvg-name="西青新闻综合 (1080p) [not 24/7]" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531230922691320_46.jpg" group-title="新聞",[BD]西青新闻综合 (1080p) [not 24/7][geo-blocked]
+#EXTINF:-1 tvg-name="西青新闻综合 (1080p) [not 24/7]" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531230922691320_46.jpg" group-title="新聞",[BD]西青新闻综合 (1080p) [not 24/7]
 https://epg.pw/stream/b64eb0ba852d4a2857fd4865ee6972318d6de04cef175cdbc787ef26a68c3052.m3u8
 #EXTINF:-1 tvg-name="鎮江新聞綜合" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101022911570371_38.jpg" group-title="新聞",[BD]鎮江新聞綜合
 rtmp://tv.jjrm.org.cn/channellive/ch1?zsicd
