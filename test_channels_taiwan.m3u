@@ -53,10 +53,6 @@ https://epg.pw/stream/185c1e2d098b55b50347f644897a68eeafbed8c9d62bef17a02e556ee3
 https://epg.pw/stream/614fec127590db111c2eff5216bdc1c04edf99cc6d57a43badbf96828afe3413.m3u8
 #EXTINF:-1 tvg-name="东森财经新闻台" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126212851373992_22.jpg" group-title="新聞",[BD]东森财经新闻台[geo-blocked]
 https://epg.pw/stream/705fef1675ed35798ee2e822e47b05f3b0abb6f6d97f71a05a5681762bc27669.m3u8
-#EXTINF:-1 tvg-name="东森超视" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2019/01/15/large/20190115235032624056_23.png" group-title="綜合",[BD]东森超视
-rtmp://9wv7.mine.nu/sat/tv331
-#EXTINF:-1 tvg-name="东森超视" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2019/01/15/large/20190115235032624056_23.png" group-title="綜合",[HD]東森超视
-rtmp://9wv7.mine.nu/sat/tv331
 #EXTINF:-1 tvg-name="中天亞洲" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/05/25/large/20230525021123825048_60.png" group-title="綜合",[BD]中天亞洲台[geo-blocked]
 https://epg.pw/stream/b7c7a6b4d75da725a3442bff5211f78de7867c4065f9efcf01510250c52d8411.m3u8
 #EXTINF:-1 tvg-name="中视" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2016/08/10/large/20160810160042605844_40.png" group-title="綜合",[BD]中视
@@ -137,6 +133,10 @@ https://epg.pw/stream/325c78aab769f97516f643e8c0b133c7d25345ee3200aaef6c6665dde7
 https://epg.pw/stream/d96f1d35bf8466b00e021a6f6c17d19254fe985c0667b597060f192f80267762.m3u8
 #EXTINF:-1 tvg-name="東森超視" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126212025462229_58.jpg" group-title="綜合",[BD]東森超視@@2[geo-blocked]
 https://epg.pw/stream/e288534386471eb859078f0ed2341613142611ac22e988bb45a0d74122e05279.m3u8
+#EXTINF:-1 tvg-name="東森超视" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2019/01/15/large/20190115235032624056_23.png" group-title="綜合",[HD]東森超视
+rtmp://9wv7.mine.nu/sat/tv331
+#EXTINF:-1 tvg-name="東森超视" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2019/01/15/large/20190115235032624056_23.png" group-title="綜合",[BD]东森超视
+rtmp://9wv7.mine.nu/sat/tv331
 #EXTINF:-1 tvg-name="東森電影" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164750276114_35.png" group-title="電影",[BD]東森電影[geo-blocked]
 https://epg.pw/stream/3497d50451ce2c4323f76ff3b420822c74fa022c4fb877eb9ba832147b0ae164.m3u8
 #EXTINF:-1 tvg-name="民視 hd" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2016/08/10/large/20160810161137278687_91.jpg" group-title="綜合",[BD]民視 hd
@@ -159,9 +159,9 @@ https://epg.pw/stream/3e4058d88811171403629f4e55387cbcdb098ace528b0c5a3bdbf8e3dd
 https://epg.pw/stream/bbd5e7b76583762ea814f543dd934ea8e0839df892638fc2d49a4d4d826903f6.ctv
 #EXTINF:-1 tvg-name="民視第一臺" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/03/23/large/20220323172047199293_67.png" group-title="綜合",[HD]民视第一台[geo-blocked]
 https://epg.pw/stream/14ed21cf202007ed8122af0f57b1b45b56a845be68533e9535a14b8170e1285d.m3u8
-#EXTINF:-1 tvg-name="緯來日本 hd" tvg-id="" tvg-country="台灣" tvg-language="日語" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/6fd73c6237ba02c406360c042582f021.jpg" group-title="綜藝",[BD]緯來日本 hd
+#EXTINF:-1 tvg-name="纬来日本" tvg-id="" tvg-country="台灣" tvg-language="日語" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/6fd73c6237ba02c406360c042582f021.jpg" group-title="綜藝",[HD]纬来日本
 rtmp://9wv7.mine.nu/sat/tv771
-#EXTINF:-1 tvg-name="緯來日本 hd" tvg-id="" tvg-country="台灣" tvg-language="日語" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/6fd73c6237ba02c406360c042582f021.jpg" group-title="綜藝",[HD]纬来日本
+#EXTINF:-1 tvg-name="纬来日本" tvg-id="" tvg-country="台灣" tvg-language="日語" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/6fd73c6237ba02c406360c042582f021.jpg" group-title="綜藝",[BD]緯來日本 hd
 rtmp://9wv7.mine.nu/sat/tv771
 #EXTINF:-1 tvg-name="纬来育乐" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2016/01/14/large/20160114210017959015_13.jpg" group-title="綜合",[BD]纬来育乐
 rtmp://9wv7.mine.nu/sat/tv701
