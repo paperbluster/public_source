@@ -27,7 +27,7 @@ https://epg.pw/stream/9b2d943d0a503d4d25683df4796760c1d094a71b2c29ef19587b41d4d4
 https://epg.pw/stream/71d58cb610510232a05f0fb669638257d700aad1b63f5705352b85d71e6309be.m3u8
 #EXTINF:-1 tvg-name="ABC News Live" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/" group-title="News",[HD]abc news live 6 (720p)
 https://epg.pw/stream/24eeb325faf7c72a01e66df5d2f970094aa23d3be429b6cb35ab92c519e356c3.m3u8
-#EXTINF:-1 tvg-name="ABC News Live" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/" group-title="News",[HD]abc news live 10 (720p)
+#EXTINF:-1 tvg-name="ABC News Live" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/" group-title="News",[HD]abc news live 10 (720p)[geo-blocked]
 https://epg.pw/stream/7cc42103fa0617ca24918ae25d9e0f7a5bca1c9cd406ad11d6dc5d9c30ce9ff5.m3u8
 #EXTINF:-1 tvg-name="ABC News Live" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/" group-title="News",[HD]abc news live 5 (720p)
 https://epg.pw/stream/2b4152917c8a305ac3b6ebb71bc1832df8acd72a70b22bd97ee9eba68001258a.m3u8
@@ -97,7 +97,7 @@ https://epg.pw/stream/f0ecf2690aeff966905aa653603e72501adf0345f2ed04310cc066e737
 https://epg.pw/stream/ff11d240be3bcc45cc5fe59e797f59c63e2031afc96b1bcb7c660132a1c26920.m3u8
 #EXTINF:-1 tvg-name="Cocoro TV" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/01/19/large/20220119220023717248_81.png" group-title="Cartoon",[VGA]concord tv (concord ca) (720p)[geo-blocked]
 https://epg.pw/stream/fbc0730f248ec08e2883e834a51925773d44af6431c4cb393363edad72b0b1ec.m3u8
-#EXTINF:-1 tvg-name="Comedy" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121235737341364_51.jpg" group-title="Entertainment",[VGA]comedy play (720p)
+#EXTINF:-1 tvg-name="Comedy" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121235737341364_51.jpg" group-title="Entertainment",[HD]comedy play (720p)
 https://epg.pw/stream/d4c1eeba98dc92a59250791afeed125bf79cdc5d84d29f7395bb9dc86c635f63.m3u8
 #EXTINF:-1 tvg-name="Crime Investigation" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/12/28/large/20221228232959122383_97.png" group-title="Documentary",[HD]Crime & Investigation
 https://epg.pw/stream/cedf845c0abade5069f89e6aab96230d894d110fd54216f0305aa825e1192f8e.ctv
@@ -149,6 +149,12 @@ https://epg.pw/stream/5cf61e51a8f79772da4661bd8aadd0a7138667b39fa4fe71d2cab8aeb3
 https://epg.pw/stream/2ba5ad4dac1a03fb3dafeb9c7c957d0334368163b3f3aabab20a5729f923e8f2.ctv
 #EXTINF:-1 tvg-name="Disney Channel" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/11/14/large/20201114212722350581_18.png" group-title="Cartoon",[HD]DISNEY CHANNEL[geo-blocked]
 https://epg.pw/stream/8d0ced0b14647a79c3498769684376b39f62ea21d4d283dcb2fb0dc74a7840f7.ctv
+#EXTINF:-1 tvg-name="ESPN" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304234949121822_43.png" group-title="Sport",[BD]ESPN
+https://epg.pw/stream/b1e519b0cab35cfa5267f319fd8df6f95a2ff1e3f636f64c73512f5236ad45a8.ctv
+#EXTINF:-1 tvg-name="ESPN 3" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/05/12/20160512220011575873_25.png" group-title="Sport",[BD]ESPN 3
+https://epg.pw/stream/efaecd72a6b91d6a2d4510068b75957b434737773982603155843d83fd0da78f.ctv
+#EXTINF:-1 tvg-name="ESPN2" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/11/14/large/20201114212508180517_30.png" group-title="Sport",[BD]ESPN2
+https://epg.pw/stream/3c0b5c2557379297ba338ee000b2b2898b54df227b6c1192cccd4445b4f309be.ctv
 #EXTINF:-1 tvg-name="EWTN El Canal Católico" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318090113005713_79.png" group-title="News",[HD]ewtn el canal católico (720p) [not 24/7][geo-blocked]
 https://epg.pw/stream/5713c6b121bcea52fed776853d5bccf5b990aeb37447ca0819f84e9536edc8c1.m3u8
 #EXTINF:-1 tvg-name="FOOD NETWORK" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/13/large/20160613170950764932_49.png" group-title="Other",[HD]FOOD NETWORK
@@ -235,8 +241,22 @@ https://epg.pw/stream/1f109f0b4ce5dc3c7560102e8c89afbbc2d4acc1e7c85fdffe3454995b
 https://epg.pw/stream/4807af6cb30c99a1c42dbc92901077ed38987b54131f992e336173fef7b121df.ctv
 #EXTINF:-1 tvg-name="MTV HD" tvg-id="" tvg-country="United States" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2016/06/20/large/20160620154233977402_79.png" group-title="Music",[HD]MTV HD
 https://epg.pw/stream/dcca4eac0ed4336fd408b995cfdefb023b38e02fe6c96d5e99a43de65cbb4e8c.ctv
+#EXTINF:-1 tvg-name="MTV HD" tvg-id="" tvg-country="United States" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2016/06/20/large/20160620154233977402_79.png" group-title="Music",[HD]MTV
+https://epg.pw/stream/cb8df86e840d58b122076bf488c2a28fdbbede3a7654b2d6883bdc56b6cca1e6.ctv
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/10/27/large/20171027212332267177_57.png" group-title="Music",[BD]MTV LIVE
+https://epg.pw/stream/53239161140155fc6d03af7219f625e0dcdce9ed57f16067b2e24ab7da85ffd3.ctv
 #EXTINF:-1 tvg-name="Mr Bean Cartoon" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020646613235_40.png" group-title="Cartoon",[BD]Mr Bean Cartoon
 https://epg.pw/stream/4563bba342db7b58179456183c1cff8e0fc922c6b61c9bb6b2cbf6c0d2e39f75.ctv
+#EXTINF:-1 tvg-name="NAT GEO HD" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/01/23/20150123053245493466_55.jpg" group-title="Documentary",[BD]NAT GEO HD
+https://epg.pw/stream/692cbf4ef1a39ae9676fb7a36215bcb929949504b18d3b30bdb41ffbfaeda6b2.ctv
+#EXTINF:-1 tvg-name="NAT GEO WILD" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/7c073fc72f7c2e7403f5e5285ea36a4f.png" group-title="Documentary",[BD]NAT GEO WILD
+https://epg.pw/stream/5b04df2a590cf08393d308fde8eb45894f83d99d6c9e64f116c1ee7522a69f6b.ctv
+#EXTINF:-1 tvg-name="NBA TV" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/03/31/large/20170331001240076889_34.png" group-title="Sport",[BD]NBA TV
+https://epg.pw/stream/5d5a8c6fd105388df27ff35455393853950d89101726c5059a9dc65ec51a3183.ctv
+#EXTINF:-1 tvg-name="NBA TV" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/03/31/large/20170331001240076889_34.png" group-title="Sport",[VGA]nea tv (720p)
+https://epg.pw/stream/a5ff680ddfad88059288079dd0056136a0a0689e0141dd29b4ba3abe495005c6.m3u8
+#EXTINF:-1 tvg-name="NBA TV" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/03/31/large/20170331001240076889_34.png" group-title="Sport",[HD]bta tv (720p)
+https://epg.pw/stream/36f7f78f0c6b49f62020717c94674cd34160bc4d54e1337eb0ec8242c23f640c.m3u8
 #EXTINF:-1 tvg-name="NICK JR" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/11/27/large/20191127224038316279_98.jpg" group-title="Cartoon",[BD]NICK JR
 https://epg.pw/stream/41d6a337ef877ce6f57da6f5f17c2017cafd3bd8a6147ea51ab3d9f5f9919857.ctv
 #EXTINF:-1 tvg-name="NICK JR" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/11/27/large/20191127224038316279_98.jpg" group-title="Cartoon",[BD]NICK JR[geo-blocked]
@@ -265,12 +285,16 @@ https://epg.pw/stream/2be690571399aa93091cc4de594713228eb604f10e8f25d3c877b15f2f
 https://epg.pw/stream/fd312347055e2f554bfdccbf344d4ab97d247b987a2a2489cdbf9e692877787f.m3u8
 #EXTINF:-1 tvg-name="SYFY" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/12/19/large/20191219230946732996_80.png" group-title="Movie",[HD]SYFY[geo-blocked]
 https://epg.pw/stream/c49527db9be2334d8e1d85e248f36d2b7dca4704e17dd56382efead2ea464985.ctv
+#EXTINF:-1 tvg-name="SYFY" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/12/19/large/20191219230946732996_80.png" group-title="Movie",[BD]SYFY
+https://epg.pw/stream/fcdec29abe86e92abb363caf875a9262f546b72231b06450edc60ba9eef7ba81.ctv
 #EXTINF:-1 tvg-name="Showtime" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/24/large/20220224195356312478_19.png" group-title="Movie",[BD]SHOWTIME[geo-blocked]
 https://epg.pw/stream/4addd97861b0495a2f85061fb074d5f7f4601c43183378a691a65d0decc28f24.ctv
 #EXTINF:-1 tvg-name="THE MOVIES" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/28/20140528140717612028_25.jpg" group-title="Movie",[BD]THE MOVIES
 https://epg.pw/stream/7fd0d3eacd2ab6830ac2ab8b8030575559e7097fab0736c8a06d29a0ce15bbd6.ctv
 #EXTINF:-1 tvg-name="TLC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/adc5a6ce8117b067f4edaf760a08acf2.png" group-title="Documentary",[HD]TLC[geo-blocked]
 https://epg.pw/stream/40a4c58b5a7e063960e71d6e8f002ddbcc4a3dbfae05957a2e5b80098a4fee21.ctv
+#EXTINF:-1 tvg-name="TLC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/adc5a6ce8117b067f4edaf760a08acf2.png" group-title="Documentary",[HD]TLC
+https://epg.pw/stream/a6b5fa1e5983527af9db1efff3bfbdfe6476646cbf9065327394a6fb07cf584f.ctv
 #EXTINF:-1 tvg-name="TNT" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226172918924851_37.png" group-title="Movie",[BD]TNT[geo-blocked]
 https://epg.pw/stream/95102d1f564dbc34942370f226db522d2aaae106b5181c3910e2902d59690f32.ctv
 #EXTINF:-1 tvg-name="The Country Network" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/03/28/large/20190328111316129706_88.png" group-title="Entertainment",[BD]the country network (1080p)
@@ -345,7 +369,7 @@ https://epg.pw/stream/2fda3ed45882078ec1ee90d6c92e5d58365eb441c220843290d711e3f8
 https://epg.pw/stream/9d65867550ed21b9e31fbbf84010debbcebc9149ff12b9482a05a514c0ddaf3c.m3u8
 #EXTINF:-1 tvg-name="bloombergtv" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/Bloomberg.PNG" group-title="News",[BD]bloomberg tv
 https://epg.pw/stream/17c701e34283ed24f26f1c1d5369534b2f6fbd1a409e83ce7e43909d5e7efc95.m3u8
-#EXTINF:-1 tvg-name="cartoonito (portuguese)" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/01/19/large/20220119215706220661_57.png" group-title="News",[HD]cartoonito (portuguese)
+#EXTINF:-1 tvg-name="cartoonito (portuguese)" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/01/19/large/20220119215706220661_57.png" group-title="News",[VGA]cartoonito (portuguese)
 https://epg.pw/stream/c9a7c9bdcdcc7e79a43f9fadc5ac2a01f51ff7fd40d700ffc305b49d20df427c.m3u8
 #EXTINF:-1 tvg-name="cartoonito (portuguese)" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/01/19/large/20220119215706220661_57.png" group-title="News",[HD]cartoonito méxico (720p)
 https://epg.pw/stream/082f799e8b1b4344db0b9ee7e307e29052a5719a0acc75906edfa76f437f2a28.m3u8
@@ -369,7 +393,7 @@ https://epg.pw/stream/6fb35c0501cfef5ececa783a5538dea953e89c5c398d00398a3e68c266
 https://epg.pw/stream/31306065b56c0ebd2dbd9a91d67baddee728d7ec96764889244a8b46df185d98.m3u8
 #EXTINF:-1 tvg-name="es tv (720p)" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_143.jpg" group-title="Other",[HD]es tv (720p)
 https://epg.pw/stream/863c88d689c26f8458a1e66a3f59399d12c37977e4dfeb65d4285cb6ed7e896a.m3u8
-#EXTINF:-1 tvg-name="etv2 (720p)" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/02/06/large/20230206153224295520_94.jpeg" group-title="News",[HD]etv2 (720p)
+#EXTINF:-1 tvg-name="etv2 (720p)" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/02/06/large/20230206153224295520_94.jpeg" group-title="News",[VGA]etv2 (720p)
 https://epg.pw/stream/3e2dbc154bc22a259a4c5a258b94814c225177247b57b8610fd29d553ff5b3b4.m3u8
 #EXTINF:-1 tvg-name="ewtn asia-pacific (720p) [not 24/7]" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318090047293384_48.png" group-title="News",[HD]ewtn asia-pacific (720p) [not 24/7][geo-blocked]
 https://epg.pw/stream/b74bd9b314903c560c7921ada0ee19d7627b3e154ecfb549ae044c8a466fa1c2.m3u8
@@ -431,16 +455,12 @@ https://epg.pw/stream/03c13ef1222ec66ac5e3adef9076f5a111a75acf6c708000b4839aaf82
 https://epg.pw/stream/a7b1c6e3296f96e0b03c08113b6df7766e6fc6817ec65d78a6655f2d0a25ce61.m3u8
 #EXTINF:-1 tvg-name="nasa tv" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/13/large/20220413155427378563_60.png" group-title="Documentary",[VGA]nasa tv[geo-blocked]
 https://epg.pw/stream/522867ecec1f7d1fcbcace6e43f8eaaa2bfcbbf4596dad494a9462f2c716c724.m3u8
-#EXTINF:-1 tvg-name="nasa tv" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/13/large/20220413155427378563_60.png" group-title="Documentary",[BD]nasa tv uhd (2160p)[geo-blocked]
+#EXTINF:-1 tvg-name="nasa tv" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/13/large/20220413155427378563_60.png" group-title="Documentary",[BD]nasa tv uhd (2160p)
 https://epg.pw/stream/a41259bc21af3238ae170ae271a521d2935a6597613cd88ea8ccb7cdb2683715.m3u8
 #EXTINF:-1 tvg-name="nat geo people" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/NAT_GEO_PEOPLE.PNG" group-title="Documentary",[BD]nat geo people
 https://epg.pw/stream/c67cb4d7d7a12a4553853881a01b3f56aa1223e62f245b162c88ed07e2bffe8c.ctv
 #EXTINF:-1 tvg-name="nbc news now (1080p)" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510220350576788_58.png" group-title="News",[BD]nbc news now (1080p)[geo-blocked]
 https://epg.pw/stream/9742868567ad953c8c0489664b27ed7d128ac18fa187178949d6131cc87f5b42.m3u8
-#EXTINF:-1 tvg-name="nea tv (720p)" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/03/31/large/20170331001240076889_34.png" group-title="Sport",[VGA]nea tv (720p)
-https://epg.pw/stream/a5ff680ddfad88059288079dd0056136a0a0689e0141dd29b4ba3abe495005c6.m3u8
-#EXTINF:-1 tvg-name="nea tv (720p)" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/03/31/large/20170331001240076889_34.png" group-title="Sport",[HD]bta tv (720p)
-https://epg.pw/stream/36f7f78f0c6b49f62020717c94674cd34160bc4d54e1337eb0ec8242c23f640c.m3u8
 #EXTINF:-1 tvg-name="news x (720p) [not 24/7]" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/17/large/20220517053232753908_86.png" group-title="News",[HD]news x (720p) [not 24/7][geo-blocked]
 https://epg.pw/stream/316180e534cf14f200b78d1bf30664b70a05d2c1056e84a2081e880989fc4cde.m3u8
 #EXTINF:-1 tvg-name="news x (720p) [not 24/7]" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/17/large/20220517053232753908_86.png" group-title="News",[HD]fox news
