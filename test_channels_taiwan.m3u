@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-#EXTINF:-1 tvg-name="DISCOVERY WORLD" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/img/logo/discovery_HD.png" group-title="紀實",[HD]DISCOVERY WORLD
+#EXTINF:-1 tvg-name="DISCOVERY WORLD" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/img/logo/discovery_HD.png" group-title="紀實",[BD]DISCOVERY WORLD
 https://epg.pw/stream/5b06aab97e37f759eb84c659176c0120ac2074c5d5d1dcada079cf50029a5700.ctv
 #EXTINF:-1 tvg-name="DISCOVERY WORLD" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/img/logo/discovery_HD.png" group-title="紀實",[BD]discovery hd world
 https://epg.pw/stream/d476259f960b090099ac5b0617a17de7d827b7225ba978cebec1b338730b64e6.m3u8
@@ -133,17 +133,19 @@ https://epg.pw/stream/428036b831181576c33f7ffdd37f5ffc285f5777227ead4b5d349a67a1
 https://epg.pw/stream/61f2ea41a74cc3aa67af18fa7648f1ee3e9b0afbda53037baa7d0a8af536dd89.m3u8
 #EXTINF:-1 tvg-name="寰宇新聞" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/05/24/large/20230524191638554822_28.png" group-title="新聞",[BD]寰宇新闻台[geo-blocked]
 https://epg.pw/stream/07098b4eb528ac93e7e5389511fe9e46ddcc020eec1e120c9542af71fba338fb.m3u8
-#EXTINF:-1 tvg-name="成龙" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2019/04/05/large/20190405221540697725_47.jpg" group-title="電影",[SD]成龙
+#EXTINF:-1 tvg-name="成龙" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2019/04/05/large/20190405221540697725_47.jpg" group-title="電影",[HD]成龙
 https://epg.pw/stream/399ead0247211727dbc10805df54fbc29e4298fdde428567fc6abcea3cde059f.ctv
 #EXTINF:-1 tvg-name="東森戲劇" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126213003695910_75.jpg" group-title="電影",[BD]東森戲劇@@1
 https://epg.pw/stream/8a8d24dd28e421e546583225a355f91570aef5e2ff82783eee6fcf5d9c4261ab.m3u8
+#EXTINF:-1 tvg-name="東森衛視" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/03/08/large/20220308133519318409_56.jpg" group-title="綜合",[BD]东森卫视
+https://epg.pw/stream/7fd3dc8277bf9e9f7feae11ec74c0412a877096e15edda472049a3ad40278a38.ctv
 #EXTINF:-1 tvg-name="東森財經" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/02/13/20160213075202249166_88.jpg" group-title="新聞",[BD]東森財經@@1
 https://epg.pw/stream/9daaf876950a147a6ee3406fd1d61100e4a6be242a9b8c20af37ae0029ff0c60.m3u8
 #EXTINF:-1 tvg-name="東森財經" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/05/25/large/20230525023129137765_93.png" group-title="新聞",[HD]东森财经
 rtmp://119.81.124.89/sat/tv571
 #EXTINF:-1 tvg-name="東森財經新聞" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126212851373992_22.jpg" group-title="新聞",[HD]東森財經新聞@@8
 rtmp://219.80.97.77/sat/tv571
-#EXTINF:-1 tvg-name="東風37" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/11/13/large/20221113163621934043_27.jpg" group-title="綜合",[BD]東風37[geo-blocked]
+#EXTINF:-1 tvg-name="東風37" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/11/13/large/20221113163621934043_27.jpg" group-title="綜合",[BD]東風37
 https://epg.pw/stream/414c7bfc8364c08e6f089b8aaddaba6abf39a96c50afe7d6352a30b8322f4309.m3u8
 #EXTINF:-1 tvg-name="民視台灣 hd" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126220034637848_50.jpg" group-title="綜合",[HD]民視台灣 hd[geo-blocked]
 https://epg.pw/stream/943e85de022a9df4ada1c79d43b5b42356e70a1f133ce210ba433c4d0ca3bcb6.ctv
@@ -185,7 +187,7 @@ rtmp://119.81.124.89/sat/tv771
 rtmp://219.80.97.77/sat/tv771
 #EXTINF:-1 tvg-name="纬来日本" tvg-id="" tvg-country="台灣" tvg-language="日語" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/6fd73c6237ba02c406360c042582f021.jpg" group-title="綜藝",[HD]纬来日本@@2
 rtmp://119.81.124.89/sat/tv771
-#EXTINF:-1 tvg-name="纬来综合" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2019/01/15/large/20190115232548263465_88.png" group-title="綜合",[BD]纬来综合
+#EXTINF:-1 tvg-name="纬来综合" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2019/01/15/large/20190115232548263465_88.png" group-title="綜合",[BD]纬来综合[geo-blocked]
 https://epg.pw/stream/35977b6d6949604387ec2eef890876cda04cd06dcbc1d89c6d2fa0664da01c7f.m3u8
 #EXTINF:-1 tvg-name="纬来育乐" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2016/01/14/large/20160114210017959015_13.jpg" group-title="綜合",[HD]纬来育乐@@16
 rtmp://119.81.124.89/sat/tv701
