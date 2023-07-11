@@ -87,6 +87,8 @@ https://epg.pw/stream/491c6330a5ff9c94335196f0ce5020f9070264a2e3029c79ff2d466367
 https://epg.pw/stream/420c3170e325b403df75c53b755581f4437f883e4159b2d25f0acf112858e999.m3u8
 #EXTINF:-1 tvg-name="中视" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2016/08/10/large/20160810160042605844_40.png" group-title="綜合",[HD]中视
 rtmp://119.81.124.89/sat/tv091
+#EXTINF:-1 tvg-name="中视新闻" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2016/12/24/large/20161224232939416676_78.jpg" group-title="新聞",[BD]中视新闻[geo-blocked]
+https://epg.pw/stream/82f32d75a3fc48001b26514205937c92561b5540c3d1f21b644c86c17dd4ea63.m3u8
 #EXTINF:-1 tvg-name="人間衛視" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/img/logo/1_164.jpg" group-title="其它",[HD]人間衛視@@1
 https://epg.pw/stream/cab9660f86973293a2803a15f5967d07b0981cf7b2ea801d7b11070100b318f9.ctv
 #EXTINF:-1 tvg-name="人间卫视" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/img/logo/1_164.jpg" group-title="其它",[HD]人间卫视@@3
@@ -187,6 +189,8 @@ rtmp://119.81.124.89/sat/tv051
 https://epg.pw/stream/874a06687ba0ef80e63712b5f2bbfaeade672def0cdee8950ad77b6067cf9a54.ctv
 #EXTINF:-1 tvg-name="民視台灣 hd" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126220034637848_50.jpg" group-title="綜合",[HD]民視台灣 hd[geo-blocked]
 https://epg.pw/stream/943e85de022a9df4ada1c79d43b5b42356e70a1f133ce210ba433c4d0ca3bcb6.ctv
+#EXTINF:-1 tvg-name="民視台灣 hd" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126220034637848_50.jpg" group-title="綜合",[HD]民視台灣台[geo-blocked]
+https://epg.pw/stream/5dc397911f6332e7660f9e90fb167c06cfdc186480028a9d4aef27cc5d453a2a.ctv
 #EXTINF:-1 tvg-name="民視影劇臺" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210223252835797_79.png" group-title="電影",[BD]民視影劇台[geo-blocked]
 https://epg.pw/stream/28d3956fe15ad20e9c1edd86163081ad69b0ef2b89a7db2434abad587e2a921c.ctv
 #EXTINF:-1 tvg-name="民視新聞" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2020/03/22/large/20200322223350176476_57.png" group-title="新聞",[SD]民视新闻HD
@@ -207,12 +211,16 @@ https://epg.pw/stream/6fa1566ea8689cbf43afb55f899dc5ee945e1caabde5bfc367cc510aa7
 https://epg.pw/stream/2d58d8f0a0cd55789fbbe7d305795dea3656816d9afa0bd3baabc067e54b218c.m3u8
 #EXTINF:-1 tvg-name="民視旅遊" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123002757302711_79.jpg" group-title="其它",[BD]民視旅遊台[geo-blocked]
 https://epg.pw/stream/05745e42a91a3a658e77a32e28d08c1e6ff34c0cda4087aacc007300fc23e45f.ctv
+#EXTINF:-1 tvg-name="民視第一台" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/03/23/large/20220323172047199293_67.png" group-title="綜合",[HD]民視第一台[geo-blocked]
+https://epg.pw/stream/3e4058d88811171403629f4e55387cbcdb098ace528b0c5a3bdbf8e3ddf8e2b0.ctv
 #EXTINF:-1 tvg-name="民視第一臺" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/03/23/large/20220323172047199293_67.png" group-title="綜合",[HD]民視第一 hd[geo-blocked]
 https://epg.pw/stream/bbd5e7b76583762ea814f543dd934ea8e0839df892638fc2d49a4d4d826903f6.ctv
 #EXTINF:-1 tvg-name="民視綜藝" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/05/25/large/20230525065754015040_83.jpg" group-title="綜藝",[BD]民視綜藝台[geo-blocked]
 https://epg.pw/stream/00f7fb7cf3bc26d8e6171d2895716d7315bf9b8afae5407f32d86e96c22aac82.ctv
 #EXTINF:-1 tvg-name="民视新闻 hd" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506171601310367_14.png" group-title="新聞",[BD]民视新闻 hd
 https://epg.pw/stream/76f0ee00f9e59f698ff954d5f79bf2c7f5ecbc83a47381bb74906acd165bd48c.m3u8
+#EXTINF:-1 tvg-name="生命电视台" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/img/logo/1_420.jpg" group-title="其它",[BD]生命电视台
+https://epg.pw/stream/9c92c9a7e4d89e2b4efd338399233ed610e50eb71af46d99e4de413623ee002b.m3u8
 #EXTINF:-1 tvg-name="纬来日本" tvg-id="" tvg-country="台灣" tvg-language="日語" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/6fd73c6237ba02c406360c042582f021.jpg" group-title="綜藝",[HD]纬来日本
 rtmp://219.80.97.77/sat/tv771
 #EXTINF:-1 tvg-name="纬来日本" tvg-id="" tvg-country="台灣" tvg-language="日語" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/6fd73c6237ba02c406360c042582f021.jpg" group-title="綜藝",[HD]纬来日本
