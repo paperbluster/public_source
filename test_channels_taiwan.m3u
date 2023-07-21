@@ -1,12 +1,28 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-name="AFN(TW)" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2020/09/21/large/20200921205351734473_48.png" group-title="其它",[HD]AFN[geo-blocked]
+https://epg.pw/stream/1fa91e9a35edb1e3e0752d827a3a9fefb0c661f72cceac204c23da65e4939dbb.ctv
+#EXTINF:-1 tvg-name="AFN(TW)" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2020/09/21/large/20200921205351734473_48.png" group-title="其它",[HD]AFN
+https://epg.pw/stream/3d5d0c40417db168bc631495503b9cc51093ccebcf54af8dabdec0ae667c2e8c.ctv
 #EXTINF:-1 tvg-name="Animax" tvg-id="1927" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719234119433352_60.jpg" group-title="動畫",[SD]bs animax
 https://epg.pw/stream/f270fd248c3705c7d0238fc1cc8b228bf86bc783c7e2173685e648e458004d01.m3u8
 #EXTINF:-1 tvg-name="Animax" tvg-id="1927" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719234119433352_60.jpg" group-title="動畫",[HD]bs animax@@1
 https://epg.pw/stream/111aca56570510e5b08474939a5490c28b82e96bcad8b1dd0f2b3ceca785d086.ctv
+#EXTINF:-1 tvg-name="BBC Lifestyle(TW)" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/08/17/large/20220817142713635100_54.png" group-title="綜合",[HD]BBC Lifestyle[geo-blocked]
+https://epg.pw/stream/714ddb49a1a04aad08ad277aab832848dd96cfcc87c567599848fadbadc22771.ctv
+#EXTINF:-1 tvg-name="BBC Lifestyle(TW)" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/08/17/large/20220817142713635100_54.png" group-title="綜合",[HD]BBC Lifestyle
+https://epg.pw/stream/88d5128b88c4b72e40b83fcaa133d61c17ce07b975a5629a7305e41d548077a8.ctv
+#EXTINF:-1 tvg-name="CINEMAX(TW)" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601221557788215_67.png" group-title="電影",[HD]CINEMAX
+https://epg.pw/stream/691ef3c29f3c4c48d1a0ebf22692a4afc3cdddddeaaf0ae5ae3832f1c8a96282.ctv
 #EXTINF:-1 tvg-name="DISCOVERY SCIENCE TW" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/06/27/large/20220627222939255917_72.png" group-title="紀實",[SD]discovery science[geo-blocked]
 https://epg.pw/stream/035902f8b3b563e0b5a7cd2ef2ade48b6c805f0d378d4265059b9948e469c036.m3u8
 #EXTINF:-1 tvg-name="ELTA體育3" tvg-id="10958" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719113544608832_44.png" group-title="運動",[HD]elta體育3台
 rtmp://9sv2.mine.nu/sat/md051
+#EXTINF:-1 tvg-name="Food Network" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/08/27/large/20220827225917116348_71.png" group-title="其它",[HD]Food Network[geo-blocked]
+https://epg.pw/stream/4e830692d17255a7aa74901d8bac25b3c5817a83596ff32413c270c4b366bec5.ctv
+#EXTINF:-1 tvg-name="Food Network" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/08/27/large/20220827225917116348_71.png" group-title="其它",[BD]Food Network[geo-blocked]
+https://epg.pw/stream/78d6de716326aefee57f0d48a4d0d99dc794b49360f7757781185ed0b723fa4a.ctv
+#EXTINF:-1 tvg-name="Food Network" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/08/27/large/20220827225917116348_71.png" group-title="其它",[HD]Food Network
+https://epg.pw/stream/6c7ccd0e30abffacd0ae5c497b3f79e68743b17152470c74ab88ce30893c753e.ctv
 #EXTINF:-1 tvg-name="MOMO綜合" tvg-id="4542" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210223019453563_65.png" group-title="綜合",[HD]momo綜合
 rtmp://219.80.97.77/sat/tv761
 #EXTINF:-1 tvg-name="MOMO綜合" tvg-id="4542" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210223019453563_65.png" group-title="綜合",[HD]momo綜合台
@@ -21,10 +37,28 @@ https://epg.pw/stream/7b153572b82a96ed27bf45804a878593b584ee2fa8862760e30c968f82
 https://epg.pw/stream/fb5c5650c3406df7c42ba516bd0e60b43a18cce4b17077b6bca45d6ba2b61185.m3u8
 #EXTINF:-1 tvg-name="Smithsonian Channel" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/03/large/20230703010539122476_41.jpeg" group-title="紀實",[BD]smithsonian channel[geo-blocked]
 https://epg.pw/stream/5d01e41aac97a662b788b0dd68389b92e42817ef24700afbf942fc54652c6f9f.m3u8
+#EXTINF:-1 tvg-name="Star Movies TW" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/04/28/large/20220428143809984195_35.png" group-title="電影",[BD]STAR MOVIES[geo-blocked]
+https://epg.pw/stream/7e48002103f9feedc376970f638a43266f8801eb6b30d5f5d9339e6be2dbb0b5.ctv
+#EXTINF:-1 tvg-name="Star Movies TW" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/04/28/large/20220428143809984195_35.png" group-title="電影",[BD]STAR MOVIES
+https://epg.pw/stream/534c687a3f8d3fc0e421bb80138eb74d098feb3ae96c8cb71e03689e9a795aa6.ctv
 #EXTINF:-1 tvg-name="TVBS Asia" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/03/02/large/20220302213708363097_69.jpg" group-title="綜合",[BD]tvbs aisa
 https://epg.pw/stream/1d3fd64401a15fe4c03686bd236262e655ddfa84c99879ae5273532ffd2ae4af.m3u8
 #EXTINF:-1 tvg-name="TVBS Asia" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/03/02/large/20220302213708363097_69.jpg" group-title="綜合",[BD]tvbs asia
 https://epg.pw/stream/bec78e286aac6635512a9f28b62fd31b8e95a4a6c3d14cfb31cc3924b0f4725c.m3u8
+#EXTINF:-1 tvg-name="TVBS Asia" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/03/02/large/20220302213708363097_69.jpg" group-title="綜合",[HD]TVBS ASIA[geo-blocked]
+https://epg.pw/stream/56eab3fd979a8c1e860218efbe68ee8a9955f6c6c04296bb05545f7574b1a5ff.ctv
+#EXTINF:-1 tvg-name="TVBS Asia" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/03/02/large/20220302213708363097_69.jpg" group-title="綜合",[HD]TVBS亚洲台[geo-blocked]
+https://epg.pw/stream/3034629259c3b91a999dbea37fa73b219b7d4b91913e3571a7bdc04d4a19fb95.ctv
+#EXTINF:-1 tvg-name="TVBS Asia" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/03/02/large/20220302213708363097_69.jpg" group-title="綜合",[HD]TVBS亚洲[geo-blocked]
+https://epg.pw/stream/936ed6ac6329c763d0a6d58ff80f76f42ebc21d9ed033770edfe1193e2a1fbfc.ctv
+#EXTINF:-1 tvg-name="TVBS Asia" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/03/02/large/20220302213708363097_69.jpg" group-title="綜合",[HD]TVBS ASIA[geo-blocked]
+https://epg.pw/stream/2fee3cc1d66f004ea7fc3456ecf18cedf3f129cdbd48abd43e8ab6bf4872f83f.ctv
+#EXTINF:-1 tvg-name="TVBS Asia" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/03/02/large/20220302213708363097_69.jpg" group-title="綜合",[HD]TVBS ASIA
+https://epg.pw/stream/f2ac182cd4a1e31b4598b2102f964d62f51f94932d84934e65042a6bced7fbaa.ctv
+#EXTINF:-1 tvg-name="TVBS新聞HD" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720162400711346_73.png" group-title="新聞",[SD]TVBS新闻台
+rtmp://119.81.124.89/sat/tv551
+#EXTINF:-1 tvg-name="TVBS歡樂臺HD" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720162440472209_35.png" group-title="綜藝",[HD]TVBS欢乐台
+rtmp://119.81.124.89/sat/tv421
 #EXTINF:-1 tvg-name="discovery channel (east) us" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2017/10/27/large/20171027204508285802_37.png" group-title="紀實",[BD]discovery channel (east) us[geo-blocked]
 https://epg.pw/stream/dc01aab29c3670a9893450d9de74af37736ac43a66a04421b98edc2404ba49cc.m3u8
 #EXTINF:-1 tvg-name="discovery channel (east) us" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2017/10/27/large/20171027204508285802_37.png" group-title="紀實",[SD]discovery channel@@3
@@ -65,6 +99,10 @@ https://epg.pw/stream/63d67f2a207e6f649f16cdeb7dc9eb190a95de243d54505301b3d4b886
 https://epg.pw/stream/9738bfc90d9cd020ee8a9797361cfde7c85528dadd9638913a2dc0114384c687.m3u8
 #EXTINF:-1 tvg-name="made in hollywood" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/03/05/large/20230305234858603161_67.png" group-title="電影",[HD]made in hollywood
 https://epg.pw/stream/9c60cfc4b5a062fc264fae9f3ec66eef1d6ffc0e88f3fbde003ede2c94ad186b.m3u8
+#EXTINF:-1 tvg-name="momo1台" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/08/03/large/20220803172022326110_13.jpg" group-title="其它",[HD]momo1台[geo-blocked]
+https://epg.pw/stream/8e0b2b6cfe073aa1895defeeaafb3d3e76063834ebac426b18b3f0f91cebda95.m3u8
+#EXTINF:-1 tvg-name="momo2台" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/08/03/large/20220803172129525719_35.jpg" group-title="其它",[HD]momo2台[geo-blocked]
+https://epg.pw/stream/ef4d56f08e0098d9a927e6d10c9f4ef90ac78f27f4b70d9391139502525d50bd.m3u8
 #EXTINF:-1 tvg-name="pet club tv" tvg-id="11079" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210221839864411_20.png" group-title="其它",[BD]pet club tv
 https://epg.pw/stream/b3dba2bf19d632d892e3eafc0bb6065cd219f3b73ef17ed90c9db9d992659e38.m3u8
 #EXTINF:-1 tvg-name="taiwan+" tvg-id="4614" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126155629392519_70.jpg" group-title="新聞",[BD]taiwan+[geo-blocked]
@@ -85,8 +123,14 @@ https://epg.pw/stream/3193c4cbab27252a840957c616b6b0c84df918e87061638d36c0a244b8
 https://epg.pw/stream/88146d531cab5a517d5e756a2bb39e9b362c87716cc0adf1debc1cb97b3996e9.m3u8
 #EXTINF:-1 tvg-name="东森新闻台" tvg-id="4314" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/20/20150920205542211030_19.jpg" group-title="新聞",[BD]东森新闻台[geo-blocked]
 https://epg.pw/stream/0c1a2def94ba956a1cd2a6bd068abf307d3bdcafd911e111f88acc295a76b6e1.m3u8
+#EXTINF:-1 tvg-name="中天亞洲" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711215559259916_97.png" group-title="綜合",[HD]中天亚洲[geo-blocked]
+https://epg.pw/stream/ce42caf101fe84eb40da0b8db86f389bdf89820eb06676416a11e3f00b7a1a94.ctv
+#EXTINF:-1 tvg-name="中天亞洲" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711215559259916_97.png" group-title="綜合",[HD]中天亚洲
+https://epg.pw/stream/d81528c85583065104fa6a5d4dd540af80a920aa1a1f1e17698e6d4424d34653.ctv
 #EXTINF:-1 tvg-name="中天亞洲" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711215559259916_97.png" group-title="綜合",[HD]中天亚洲台
 https://epg.pw/stream/a9d088ac00598b278adc64978f34cc0349face9cbadbd268eda1a42c0c95d6eb.m3u8
+#EXTINF:-1 tvg-name="中天亞洲FHD" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/03/05/large/20220305162128943091_65.png" group-title="綜合",[HD]中天亚洲台[geo-blocked]
+https://epg.pw/stream/c551565c445ae2e1bb34113fb29bf7e7546cbf51d56b8145e0bb2e252ff20ca2.ctv
 #EXTINF:-1 tvg-name="中天新聞" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711224446764842_40.jpg" group-title="新聞",[BD]中天新闻@@2[geo-blocked]
 https://epg.pw/stream/fb3265f1cd315b909270dcd8f4fb8c085937e4b2f6026178c4ea3e3e2da4ad46.m3u8
 #EXTINF:-1 tvg-name="中視" tvg-id="4960" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711221412936937_72.png" group-title="綜合",[HD]中视
@@ -95,6 +139,12 @@ rtmp://219.80.97.77/sat/tv091
 https://epg.pw/stream/5c00445bca9aaeefcb38ce5a1227e06ac3d420a57a804161ae6f95eaf4e825e9.m3u8
 #EXTINF:-1 tvg-name="中視" tvg-id="4960" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711221412936937_72.png" group-title="綜合",[HD]中視
 rtmp://119.81.124.89/sat/tv091
+#EXTINF:-1 tvg-name="中視" tvg-id="4960" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711221412936937_72.png" group-title="綜合",[SD]中视
+rtmp://119.81.124.89/sat/tv091
+#EXTINF:-1 tvg-name="中視HD" tvg-id="4960" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711221438318817_11.png" group-title="綜合",[SD]中视
+https://epg.pw/stream/5e826a8094347368ca98bce526dc09ec40e5ab7f938c68b2560ecece9a54b985.m3u8
+#EXTINF:-1 tvg-name="中視HD" tvg-id="4960" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711221438318817_11.png" group-title="綜合",[SD]中视
+https://epg.pw/stream/9fe04cd6e5135117622826e2fc717a41158c160b21a6ed5e13bf9470bee74970.m3u8
 #EXTINF:-1 tvg-name="中視新聞" tvg-id="4949" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711221808922798_13.jpg" group-title="新聞",[BD]中视新闻[geo-blocked]
 https://epg.pw/stream/82f32d75a3fc48001b26514205937c92561b5540c3d1f21b644c86c17dd4ea63.m3u8
 #EXTINF:-1 tvg-name="中視新聞臺" tvg-id="4949" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164553238162_16.png" group-title="新聞",[BD]中視新聞台[geo-blocked]
@@ -105,8 +155,12 @@ https://epg.pw/stream/cab9660f86973293a2803a15f5967d07b0981cf7b2ea801d7b11070100
 https://epg.pw/stream/c843b988ac87546902dabf26d4d392d7634457129be943bc962b6940738e4133.m3u8
 #EXTINF:-1 tvg-name="信大電視台" tvg-id="4860" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/11/22/20161122132921830489_44.png" group-title="綜合",[BD]信大電視台[geo-blocked]
 https://epg.pw/stream/97278d9e1a378a7840640145b5ac8e4b5a00d03f618c4c6a32df5845d1f91e96.m3u8
+#EXTINF:-1 tvg-name="华视" tvg-id="2056" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2020/07/26/large/20200726143140379428_88.jpg" group-title="綜合",[SD]华视
+rtmp://119.81.124.89/sat/tv111
 #EXTINF:-1 tvg-name="华视" tvg-id="2056" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2020/07/26/large/20200726143140379428_88.jpg" group-title="綜合",[HD]华视
 https://epg.pw/stream/eccf32739b25830eae943450b2e0cd8790e575a94f2edee661670cbceaa71f49.m3u8
+#EXTINF:-1 tvg-name="华视" tvg-id="2056" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2016/12/24/large/20161224233801697871_73.jpg" group-title="綜合",[SD]华视
+https://epg.pw/stream/fc34c70490c53b53c34bce9248ce9d82068d1cd2d771e8c3b478b1aa818bc93f.m3u8
 #EXTINF:-1 tvg-name="博斯运动" tvg-id="4113" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2016/12/31/large/20161231221553445439_57.jpg" group-title="運動",[BD]博斯运动
 https://epg.pw/stream/2d23f2faaef2b41348be3a0162e5b3f8a6d3fd14feaf9afbe1d8855c5992bee9.ctv
 #EXTINF:-1 tvg-name="博斯魅力" tvg-id="4043" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/03/23/large/20220323221608921478_11.jpg" group-title="運動",[HD]博斯魅力
@@ -115,6 +169,12 @@ rtmp://219.80.97.77/sat/md051
 https://epg.pw/stream/440e2c0585ce62fd999454df8770aef94a3631ed4dbb1036be6a191ce879d581.m3u8
 #EXTINF:-1 tvg-name="台視新聞台" tvg-id="4707" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/11/22/20161122123940121042_91.png" group-title="新聞",[BD]台視新聞台[geo-blocked]
 https://epg.pw/stream/6e40968a53c1fcc51660e46c95693d26081134567df9d791565994071f4ae028.ctv
+#EXTINF:-1 tvg-name="台视" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2016/08/10/large/20160810160519385984_21.png" group-title="綜合",[HD]台视
+https://epg.pw/stream/6250775826f9184c39aa043fd8772faf7aae345973f076eedd4588ef962b7c67.m3u8
+#EXTINF:-1 tvg-name="台视" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2016/08/10/large/20160810160519385984_21.png" group-title="綜合",[HD]台视[geo-blocked]
+https://epg.pw/stream/97c8d5206581ba245da7ab7636a217f1842feff5e24ff5c412c9953f6e32a689.m3u8
+#EXTINF:-1 tvg-name="台视" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2016/08/10/large/20160810160519385984_21.png" group-title="綜合",[HD]台视
+rtmp://119.81.124.89/sat/tv071
 #EXTINF:-1 tvg-name="唯心電視" tvg-id="3173" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/12/large/20220512231926730574_47.jpg" group-title="其它",[VGA]唯心電視
 https://epg.pw/stream/aa983b380af5e2ddf20506413fa4a11d20aff06af9605f87caeef96a787d942a.m3u8
 #EXTINF:-1 tvg-name="唯心電視" tvg-id="3173" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/12/large/20220512231926730574_47.jpg" group-title="其它",[VGA]唯心電視@@1
@@ -133,10 +193,20 @@ https://epg.pw/stream/aea0710e4f460c4341b816de7c2dbaf86089ab44984490c5a431276d52
 https://epg.pw/stream/d8ecd4005a721625fd1cf30519dc635fdeec60f7a294302874d5638972f56f68.m3u8
 #EXTINF:-1 tvg-name="大愛2" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2015/05/21/large/20150521014333336253_94.png" group-title="其它",[HD]大爱2@@1[geo-blocked]
 https://epg.pw/stream/90c3c2fa9df0e57466057e690b618d69c34f5cfe8bdea2edf0522742a91c368c.m3u8
+#EXTINF:-1 tvg-name="大愛2" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2015/05/21/large/20150521014333336253_94.png" group-title="其它",[HD]大爱1台
+https://epg.pw/stream/bd9064a9c7c4fd85fd54fa88b7db578cb2f17d4d2b12334ebee64d76c78079ac.m3u8
+#EXTINF:-1 tvg-name="大愛2" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2015/05/21/large/20150521014333336253_94.png" group-title="其它",[BD]大爱2[geo-blocked]
+https://epg.pw/stream/57550364c4e7568efb2cfc9748c26c11231c9dd243f233acdf6cddb19848abe4.m3u8
+#EXTINF:-1 tvg-name="大爱1" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/893ad6bbc78b8f994774751143496a31.jpg" group-title="其它",[BD]大爱1[geo-blocked]
+https://epg.pw/stream/61399e3561c0b55a1cf58abc48e5c192ef42fa2b7051d2e77ca248241f90129b.m3u8
 #EXTINF:-1 tvg-name="好消息 hd" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2015/05/21/large/20150521020022283872_50.jpg" group-title="其它",[HD]好消息 hd[geo-blocked]
 https://epg.pw/stream/428036b831181576c33f7ffdd37f5ffc285f5777227ead4b5d349a67a105bd06.ctv
 #EXTINF:-1 tvg-name="好消息 hd" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2015/05/21/large/20150521020022283872_50.jpg" group-title="其它",[HD]好消息2[geo-blocked]
 https://epg.pw/stream/198977bad8b635560ce8b0eb70bfc4026b3bfcb533e68cc425fa0a60001dff5f.m3u8
+#EXTINF:-1 tvg-name="好萊塢電影" tvg-id="4450" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204948549014_27.png" group-title="電影",[BD]好莱坞电影[geo-blocked]
+https://epg.pw/stream/1ea872aa48aa515da463a4340f8b8725a46c4871cf62c70545d3cb5e69358162.ctv
+#EXTINF:-1 tvg-name="好萊塢電影" tvg-id="4450" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204948549014_27.png" group-title="電影",[BD]好莱坞电影
+https://epg.pw/stream/8fa9980e3858578e47604e14e7443c5da1facac914c89a74153c2173d9d18873.ctv
 #EXTINF:-1 tvg-name="寰宇新聞" tvg-id="12008" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720211026184936_51.png" group-title="新聞",[BD]寰宇新闻[geo-blocked]
 https://epg.pw/stream/839bd1c9378b73c9c5b21d3ec7839de4673acaa1b57c1de83aedf0422d70e503.m3u8
 #EXTINF:-1 tvg-name="寰宇新聞" tvg-id="12008" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720211026184936_51.png" group-title="新聞",[BD]寰宇新闻台[geo-blocked]
@@ -145,8 +215,24 @@ https://epg.pw/stream/07098b4eb528ac93e7e5389511fe9e46ddcc020eec1e120c9542af71fb
 https://epg.pw/stream/52455ad7958d422050599171a7aab2ca1f35c60b34c81504833f1ecc75d12a2f.ctv
 #EXTINF:-1 tvg-name="寰宇新聞台灣台" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2020/07/07/large/20200707124126721738_31.png" group-title="新聞",[BD]寰宇新聞台灣台[geo-blocked]
 https://epg.pw/stream/c933155bd337d436bbd6ac9a3b6a8e50a14cb2153b6788a473fc6cf6bbb51c8b.ctv
+#EXTINF:-1 tvg-name="成龙" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2019/04/05/large/20190405221540697725_47.jpg" group-title="電影",[SD]成龙
+https://epg.pw/stream/7af8c438ede254232c1af9da9e89516f7767db14a711ba1dbc111092e2404e29.ctv
+#EXTINF:-1 tvg-name="時尚運動X" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210222534937410_51.png" group-title="運動",[VGA]時尚台FTV
+https://epg.pw/stream/7cde6902e8bb74695bd9446a5d0971d4bb76fb6632f77dd81e7c64bb7b87ed30.m3u8
 #EXTINF:-1 tvg-name="東森戲劇" tvg-id="4188" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719100503392898_73.png" group-title="電影",[HD]东森戏剧
 https://epg.pw/stream/d022283dd82f8a32737a6a8400d8e0e2f4d38e672492bb7966c25ac4950b25a3.m3u8
+#EXTINF:-1 tvg-name="東森戲劇" tvg-id="4188" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719100503392898_73.png" group-title="電影",[SD]东森戏剧
+https://epg.pw/stream/344cbbf57e7b061a19636efb8847adf9eaf3301b1c5e9f88f56949a6745347dd.m3u8
+#EXTINF:-1 tvg-name="東森戲劇" tvg-id="4188" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719100503392898_73.png" group-title="電影",[SD]东森戏剧
+https://epg.pw/stream/b8013578d581c9cdd6f0f70dbbda9b74174cf57993d9d6bb3a43784e06f2f1f4.m3u8
+#EXTINF:-1 tvg-name="東森洋片" tvg-id="4436" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719100122439235_48.png" group-title="電影",[SD]东森洋片
+https://epg.pw/stream/4e6936c1e75fdbbc96e36a300a015ba67c2b3d71e4fffb76d2ab71d6e0b73dd8.m3u8
+#EXTINF:-1 tvg-name="東森洋片" tvg-id="4436" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719100122439235_48.png" group-title="電影",[SD]东森洋片
+https://epg.pw/stream/7261e2cc45c9fcee0dfab3dac4d57bb0955843e283f8e32d540beb9951cf3b8a.m3u8
+#EXTINF:-1 tvg-name="東森洋片" tvg-id="4436" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719100122439235_48.png" group-title="電影",[HD]东森洋片[geo-blocked]
+https://epg.pw/stream/58dabe520729a852ccd2351e61f26e6bf5ac6c04c42cd2c171a04bed61f00fa3.ctv
+#EXTINF:-1 tvg-name="東森洋片" tvg-id="4436" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719100122439235_48.png" group-title="電影",[HD]东森洋片
+https://epg.pw/stream/415ac1f96dd749c54d783c2340b39585d28099e93483ae894d6238fffece4727.ctv
 #EXTINF:-1 tvg-name="東森洋片" tvg-id="4436" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719100122439235_48.png" group-title="電影",[HD]东森洋片
 https://epg.pw/stream/f01792b149a55cc131150c35d0c678d325563b064635315b40d4ad31bb52090e.m3u8
 #EXTINF:-1 tvg-name="東森美洲" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/10/23/large/20221023212524554784_66.jpg" group-title="綜合",[VGA]東森美洲
@@ -157,10 +243,22 @@ https://epg.pw/stream/3f54de58cf44244a3a2e14cd7388cac348a17ada96c4aba4b5a65f1c4c
 rtmp://119.81.124.89/sat/tv571
 #EXTINF:-1 tvg-name="東森財經新聞" tvg-id="4302" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126212851373992_22.jpg" group-title="新聞",[HD]東森財經新聞@@8
 rtmp://219.80.97.77/sat/tv571
+#EXTINF:-1 tvg-name="東森超視" tvg-id="3734" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719095705249502_26.png" group-title="綜合",[VGA]东森超视
+https://epg.pw/stream/6665329ccbf727bc703e1b5a52c03117736236ea57e8b6683be01ceb3cbb77bc.m3u8
 #EXTINF:-1 tvg-name="東森超視" tvg-id="3734" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719095705249502_26.png" group-title="綜合",[HD]东森超视
 rtmp://219.80.97.77/sat/tv331
+#EXTINF:-1 tvg-name="東森電影" tvg-id="4414" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719100048716197_19.png" group-title="電影",[SD]东森电影
+https://epg.pw/stream/148581a8a137cea5e764f82b7460ff7ab7e0f4b2d2eff5fe1069c5cfb2191cc2.m3u8
+#EXTINF:-1 tvg-name="東森電影" tvg-id="4414" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719100048716197_19.png" group-title="電影",[SD]东森电影
+https://epg.pw/stream/aa20d273a388079687bf7dac37e95349a4ef0284fa63357495aec433696b97d5.m3u8
+#EXTINF:-1 tvg-name="東森電影" tvg-id="4414" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719100048716197_19.png" group-title="電影",[BD]东森电影[geo-blocked]
+https://epg.pw/stream/bad32e07e41e471da5c98029953599893b4359975451cfe73a7e672bf898255c.ctv
+#EXTINF:-1 tvg-name="東森電影" tvg-id="4414" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719100048716197_19.png" group-title="電影",[BD]东森电影
+https://epg.pw/stream/ff26c67216bae3cb8b8fe8cf7468c26d9b666d6c2dd07212e960c98e9a5b04be.ctv
 #EXTINF:-1 tvg-name="東森電影" tvg-id="4414" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719100048716197_19.png" group-title="電影",[HD]东森电影@@2
 https://epg.pw/stream/382dca1621c0aecc0f0ef19a4ef53b453d932600fc491d9f56657e576996d995.m3u8
+#EXTINF:-1 tvg-name="民視" tvg-id="10843" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/06/14/large/20230614212503849654_98.png" group-title="綜合",[SD]民视
+rtmp://119.81.124.89/sat/tv051
 #EXTINF:-1 tvg-name="民視" tvg-id="10843" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/06/14/large/20230614212503849654_98.png" group-title="綜合",[HD]民視 hd[geo-blocked]
 https://epg.pw/stream/874a06687ba0ef80e63712b5f2bbfaeade672def0cdee8950ad77b6067cf9a54.ctv
 #EXTINF:-1 tvg-name="民視" tvg-id="10843" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/11/27/large/20221127000500162147_91.jpg" group-title="綜合",[HD]民視
@@ -185,6 +283,8 @@ https://epg.pw/stream/75e14c76b6bf52ae5f96e83d07ea3b69008f6b017d18a395b6c6346ef6
 https://epg.pw/stream/357581cc08ace7ef32a04c9c53578fe9906e137989e1f5e0355395f7a3ae8e37.m3u8
 #EXTINF:-1 tvg-name="民視新聞" tvg-id="4328" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/17/large/20230717235342730998_10.png" group-title="新聞",[SD]民视新闻台
 https://epg.pw/stream/1d469cbfb06b06cde4dc59c21272a4e6da364621e97513d03523c96d0c7afe1e.m3u8
+#EXTINF:-1 tvg-name="民視新聞FHD" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/17/large/20230717235842540486_10.png" group-title="新聞",[SD]民视新闻HD
+https://epg.pw/stream/8aeea1d350640bd9ce8b115743d4eb93ae25f6eea283e21404e503757648fbc5.m3u8
 #EXTINF:-1 tvg-name="民視新聞HD" tvg-id="4328" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/17/large/20230717235434827332_62.png" group-title="新聞",[BD]民视新闻hd
 https://epg.pw/stream/2d58d8f0a0cd55789fbbe7d305795dea3656816d9afa0bd3baabc067e54b218c.m3u8
 #EXTINF:-1 tvg-name="民視旅遊" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/18/large/20230718000407226232_75.jpg" group-title="其它",[HD]民視旅遊[geo-blocked]
@@ -201,6 +301,8 @@ https://epg.pw/stream/76f0ee00f9e59f698ff954d5f79bf2c7f5ecbc83a47381bb74906acd16
 https://epg.pw/stream/9c92c9a7e4d89e2b4efd338399233ed610e50eb71af46d99e4de413623ee002b.m3u8
 #EXTINF:-1 tvg-name="緯來日本" tvg-id="4538" tvg-country="台灣" tvg-language="日語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719103100267470_96.png" group-title="綜藝",[HD]纬来日本
 rtmp://219.80.97.77/sat/tv771
+#EXTINF:-1 tvg-name="緯來日本" tvg-id="4538" tvg-country="台灣" tvg-language="日語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719103100267470_96.png" group-title="綜藝",[SD]纬来日本
+rtmp://119.81.124.89/sat/tv771
 #EXTINF:-1 tvg-name="緯來日本" tvg-id="4538" tvg-country="台灣" tvg-language="日語" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126210817982613_24.jpg" group-title="綜藝",[HD]緯來日本
 rtmp://119.81.124.89/sat/tv771
 #EXTINF:-1 tvg-name="緯來育樂" tvg-id="4554" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164810377610_27.png" group-title="綜合",[HD]緯來育樂
@@ -213,6 +315,10 @@ https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5ed
 rtmp://219.80.97.77/sat/tv721
 #EXTINF:-1 tvg-name="緯來體育" tvg-id="4543" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/06/12/large/20230612232406032049_30.png" group-title="運動",[HD]緯來體育
 rtmp://119.81.124.89/sat/tv721
+#EXTINF:-1 tvg-name="美好1臺" tvg-id="12192" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210223823758566_67.png" group-title="綜藝",[BD]美好1[geo-blocked]
+https://epg.pw/stream/21b52a65078ec1fc1a4a06c7b886e091a31873ff83236144238f7697580673d7.m3u8
+#EXTINF:-1 tvg-name="美好2臺" tvg-id="11997" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210223839277787_51.png" group-title="綜藝",[BD]美好2台[geo-blocked]
+https://epg.pw/stream/abc5a9a5b272dbded7bce3e799482963b020a04cb13ca5eea618a7a45805728e.m3u8
 #EXTINF:-1 tvg-name="臺視新聞" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/17/large/20230717234915927521_85.png" group-title="新聞",[BD]台视新闻台[geo-blocked]
 https://epg.pw/stream/96afb8d6fa20bb65a774f91d5caa60abc507e35ade518c7992f5f652cadd0914.m3u8
 #EXTINF:-1 tvg-name="臺視新聞" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/17/large/20230717234915927521_85.png" group-title="新聞",[BD]台视新闻@@3
@@ -231,7 +337,17 @@ https://epg.pw/stream/6ffb325e878b6ae255f12f6f11aef268b32db0d6b8b43c53fa00419752
 rtmp://119.81.124.89/sat/tv111
 #EXTINF:-1 tvg-name="華視" tvg-id="2056" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2020/07/26/large/20200726143140379428_88.jpg" group-title="綜合",[HD]華視@@1
 rtmp://219.80.97.77/sat/tv111
+#EXTINF:-1 tvg-name="衛視電影" tvg-id="4393" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720105058501096_77.png" group-title="電影",[SD]卫视电影[geo-blocked]
+https://epg.pw/stream/bf0048f88823bf0b1bc8ae5bd2f2578aaa28e6e0ecd92626781b0f1b8aa14299.ctv
+#EXTINF:-1 tvg-name="衛視電影" tvg-id="4393" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720105058501096_77.png" group-title="電影",[SD]卫视电影
+https://epg.pw/stream/3e694279a0abd3559bf56a1d700e0c8e594f3037df78a20db67fa58bac6a6e6a.ctv
+#EXTINF:-1 tvg-name="鏡新聞" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/06/05/large/20230605011449264065_58.jpg" group-title="新聞",[SD]镜新闻[geo-blocked]
+https://epg.pw/stream/cde3c2d294050bdeb074e0043255604b72483938c362251909f7c41782c64f5b.m3u8
 #EXTINF:-1 tvg-name="鏡新聞" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126155808519742_55.jpg" group-title="新聞",[BD]鏡新聞[geo-blocked]
 https://epg.pw/stream/c8fb26710ac04a8e3742b1646b59b85967ac0b9ec67e4bb215ebe4d9f45ff2e8.m3u8
 #EXTINF:-1 tvg-name="鏡新聞" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126155808519742_55.jpg" group-title="新聞",[BD]鏡新聞@@2[geo-blocked]
 https://epg.pw/stream/4804ea2641633fa37835b59ddae38f3cd922c6250f48574b0e7627651d949c4b.ctv
+#EXTINF:-1 tvg-name="龍祥電影" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719075349183643_37.png" group-title="電影",[BD]龙祥电影[geo-blocked]
+https://epg.pw/stream/36670429d9e593620a4bcb92992bbf9c0858a7ab3cf2c61998a2ecf739806d5e.ctv
+#EXTINF:-1 tvg-name="龍祥電影" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719075349183643_37.png" group-title="電影",[BD]龙祥电影
+https://epg.pw/stream/f0e05efa1f70a40adc4aa49e583ab2a39d956a9a861cacf94dacbddc7e29dd2c.ctv
