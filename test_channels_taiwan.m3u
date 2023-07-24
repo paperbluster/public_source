@@ -13,7 +13,7 @@ https://epg.pw/stream/243e7d97eeaa58e6dab9b5eef29f60fd2d05b18e4c0a5370c6eedf9e57
 https://epg.pw/stream/714ddb49a1a04aad08ad277aab832848dd96cfcc87c567599848fadbadc22771.ctv
 #EXTINF:-1 tvg-name="CINEMAX(TW)" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601221557788215_67.png" group-title="電影",[HD]CINEMAX
 https://epg.pw/stream/fc4b8eb81c84fb03512d533bef023dc6d690484c6ae02b42e7e7fe643ac78d4d.ctv
-#EXTINF:-1 tvg-name="DISCOVERY SCIENCE TW" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/06/27/large/20220627222939255917_72.png" group-title="紀實",[SD]discovery science[geo-blocked]
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE TW" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/06/27/large/20220627222939255917_72.png" group-title="紀實",[SD]discovery science
 https://epg.pw/stream/035902f8b3b563e0b5a7cd2ef2ade48b6c805f0d378d4265059b9948e469c036.m3u8
 #EXTINF:-1 tvg-name="ELTA體育3" tvg-id="10958" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719113544608832_44.png" group-title="運動",[HD]elta體育3台
 rtmp://9sv2.mine.nu/sat/md051
@@ -339,6 +339,8 @@ rtmp://119.81.124.89/sat/tv701
 rtmp://219.80.97.77/sat/tv701
 #EXTINF:-1 tvg-name="緯來育樂" tvg-id="4554" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722124851344289_73.png" group-title="綜合",[HD]纬来育乐@@1
 https://epg.pw/stream/7641ee7b0036802968aee9148b0032039c28c607231e25cffb9f0e75b351b14e.ctv
+#EXTINF:-1 tvg-name="緯來電影" tvg-id="4408" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105432854571_34.png" group-title="電影",[BD]纬来电影
+rtmp://pull-f5-spe.ixigua.com/live/xykefkkxchkhkpfkxcvjwpejyptepjkxftvnxvskklkhvkfhwlky
 #EXTINF:-1 tvg-name="緯來體育" tvg-id="4543" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105618864183_26.png" group-title="運動",[VGA]纬来体育@@1[geo-blocked]
 https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 #EXTINF:-1 tvg-name="緯來體育" tvg-id="4543" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105618864183_26.png" group-title="運動",[HD]纬来体育@@2
@@ -355,10 +357,10 @@ https://epg.pw/stream/abc5a9a5b272dbded7bce3e799482963b020a04cb13ca5eea618a7a458
 rtmp://119.81.124.89/sat/tv111
 #EXTINF:-1 tvg-name="華視" tvg-id="2056" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2020/07/26/large/20200726143140379428_88.jpg" group-title="綜合",[HD]華視@@1
 rtmp://219.80.97.77/sat/tv111
-#EXTINF:-1 tvg-name="衛視電影" tvg-id="4393" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722194406818707_56.png" group-title="電影",[SD]卫视电影[geo-blocked]
-https://epg.pw/stream/bf0048f88823bf0b1bc8ae5bd2f2578aaa28e6e0ecd92626781b0f1b8aa14299.ctv
 #EXTINF:-1 tvg-name="衛視電影" tvg-id="4393" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722194406818707_56.png" group-title="電影",[SD]卫视电影
 https://epg.pw/stream/b6e8d744c8d28414d2c1208330a8ba2447cad2274378c6a8f9e5691c1cb0ef8b.ctv
+#EXTINF:-1 tvg-name="衛視電影" tvg-id="4393" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722194406818707_56.png" group-title="電影",[SD]卫视电影[geo-blocked]
+https://epg.pw/stream/bf0048f88823bf0b1bc8ae5bd2f2578aaa28e6e0ecd92626781b0f1b8aa14299.ctv
 #EXTINF:-1 tvg-name="鏡新聞" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/06/05/large/20230605011449264065_58.jpg" group-title="新聞",[SD]镜新闻[geo-blocked]
 https://epg.pw/stream/cde3c2d294050bdeb074e0043255604b72483938c362251909f7c41782c64f5b.m3u8
 #EXTINF:-1 tvg-name="鏡新聞" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126155808519742_55.jpg" group-title="新聞",[BD]鏡新聞[geo-blocked]
