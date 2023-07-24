@@ -223,7 +223,7 @@ https://epg.pw/stream/f17e1d64f0270debd3fad313586fd12d658d807a873f04cd907001706d
 https://epg.pw/stream/625e26a94e48f090b9e8398e5149e6b88d881a7deeb862ef3bb1328c93d2d692.ctv
 #EXTINF:-1 tvg-name="Cocoro TV" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/01/19/large/20220119220023717248_81.png" group-title="Cartoon",[VGA]concord tv (concord ca) (720p)[geo-blocked]
 https://epg.pw/stream/fbc0730f248ec08e2883e834a51925773d44af6431c4cb393363edad72b0b1ec.m3u8
-#EXTINF:-1 tvg-name="Comedy" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121235737341364_51.jpg" group-title="Entertainment",[HD]comedy play (720p)
+#EXTINF:-1 tvg-name="Comedy" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121235737341364_51.jpg" group-title="Entertainment",[VGA]comedy play (720p)
 https://epg.pw/stream/d4c1eeba98dc92a59250791afeed125bf79cdc5d84d29f7395bb9dc86c635f63.m3u8
 #EXTINF:-1 tvg-name="Comedy" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121235737341364_51.jpg" group-title="Entertainment",[HD]COMEDY CENTRAL USA[geo-blocked]
 https://epg.pw/stream/e418025603144f7a99e07f12812ce2200b8514ed49330a0837561baa96c09595.ctv
@@ -457,12 +457,12 @@ https://epg.pw/stream/ce265cb2fa4396e4e817ff6f34dd783bfad692386bd61dc922b927a518
 https://epg.pw/stream/54ea6ed45a4ead56d4dcf87ed6c46f2a2641158a74e6da9dc843c6e65056e7f9.ctv
 #EXTINF:-1 tvg-name="HBO HD USA" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/12/26/large/20161226233903760066_21.png" group-title="Movie",[BD]HBO HD
 https://epg.pw/stream/3b4ca1a2f1f33c5f5ceb0b74951ea6605e4ac5e21050722c7851dd36a92bf659.ctv
-#EXTINF:-1 tvg-name="HBO HITS HD" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720205330413488_22.png" group-title="Movie",[HD]HBO HITS[geo-blocked]
-https://epg.pw/stream/6643f81bbf1c8630e0a78906d50138c1dbe81e8793a59037dbf14d444cbfe579.ctv
 #EXTINF:-1 tvg-name="HBO HITS HD" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720205330413488_22.png" group-title="Movie",[HD]HBO HITS
 https://epg.pw/stream/20e8d6ff83ae88dd1f7ea1e8108e0dea0a2a8e3d78bc30f637a9615c65a02430.ctv
 #EXTINF:-1 tvg-name="HBO HITS HD" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720205330413488_22.png" group-title="Movie",[SD]HBO HITS[geo-blocked]
 https://epg.pw/stream/231e43a357100541ecb1abd88424ef508b5b63bf1fd655dd499d960dca96fe03.ctv
+#EXTINF:-1 tvg-name="HBO HITS HD" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720205330413488_22.png" group-title="Movie",[HD]HBO HITS[geo-blocked]
+https://epg.pw/stream/6643f81bbf1c8630e0a78906d50138c1dbe81e8793a59037dbf14d444cbfe579.ctv
 #EXTINF:-1 tvg-name="HBO Signature" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/22/large/20190122001759661697_75.png" group-title="Movie",[BD]hbo signature (west)[geo-blocked]
 https://epg.pw/stream/88a938cf5cb08389b252d22d056d43017a0cd8bbb266f0a488c624db1019587c.m3u8
 #EXTINF:-1 tvg-name="HBO Signature" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/22/large/20190122001759661697_75.png" group-title="Movie",[BD]hbo signature (east) us[geo-blocked]
@@ -500,8 +500,6 @@ https://epg.pw/stream/dea1c8837558e89169cb11cb4b01fa150956c73c839cd7c3f4eb5c9f29
 #EXTINF:-1 tvg-name="Investigation Discovery" tvg-id="8487" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/11/large/20220411222823732042_44.png" group-title="Documentary",[BD]INVESTIGATION DISCOVERY[geo-blocked]
 https://epg.pw/stream/bc725fef3e7fe1abc70dbc092d9b68428c79f35057c4ae04bd5f8fad8901a327.ctv
 #EXTINF:-1 tvg-name="Investigation Discovery" tvg-id="8487" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/11/large/20220411222823732042_44.png" group-title="Documentary",[HD]investigation discovery
-rtmp://5.182.231.251//2085
-#EXTINF:-1 tvg-name="Investigation Discovery" tvg-id="8487" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/11/large/20220411222823732042_44.png" group-title="Documentary",[SD]investigation discovery
 rtmp://5.182.231.251//2085
 #EXTINF:-1 tvg-name="LIFETIME USA" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2015/05/20/large/20150520014423841535_64.png" group-title="Entertainment",[HD]LIFETIME USA[geo-blocked]
 https://epg.pw/stream/ca57513f813a7ba05827c8065552ddc988c3099b480c8deed3224d655d334958.ctv
