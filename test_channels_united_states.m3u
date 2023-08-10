@@ -229,8 +229,6 @@ https://epg.pw/stream/fa77385722c71ceb5f471b0080edeefd7241e7329255cc7bf0c3787991
 https://epg.pw/stream/97c8802475658d5051911bcf2af646d0f5917ab69bbaabd2682c9cb477e557d2.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_190.jpg" group-title="Cartoon",[HD]cartoon network (portuguese)
 https://epg.pw/stream/17b17b824c59643a174d6319b93f9a86ff3eb3d9a4546a6e8764ac50d17a1509.m3u8
-#EXTINF:-1 tvg-name="Cinemax" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/10/29/large/20171029231536415059_20.png" group-title="Movie",[HD]cinemax hd fpt[geo-blocked]
-https://epg.pw/stream/23b9a32d82b85cbd6f7af7a4978b7a48aaa41b3f46b3a38cc6b8c44d99a0168c.ctv
 #EXTINF:-1 tvg-name="Cinemax" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/10/29/large/20171029231536415059_20.png" group-title="Movie",[HD]CINEMAX[geo-blocked]
 https://epg.pw/stream/1ed8a3567bbe2e4a364901145c6f80fd8a82fc34a1de3b0f8f789fc679bf291d.ctv
 #EXTINF:-1 tvg-name="Cinemax" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/10/29/large/20171029231536415059_20.png" group-title="Movie",[HD]CINEMAX[geo-blocked]
@@ -249,6 +247,8 @@ https://epg.pw/stream/cc621e5eef82d7ea900fdef560467484684d982a540eada690921ecb71
 https://epg.pw/stream/a1b4bb90388a9c041ddcd3745cb8e260205a1fe9c15d7f4da9a9320a9cb4eff7.ctv
 #EXTINF:-1 tvg-name="Cinemax" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/10/29/large/20171029231536415059_20.png" group-title="Movie",[HD]CINEMAX[geo-blocked]
 https://epg.pw/stream/a56a4c8fe21e7fd4df6a6804269c5117d91064ad339b9df7d7cf05b62e51e9cb.ctv
+#EXTINF:-1 tvg-name="Cinemax" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/10/29/large/20171029231536415059_20.png" group-title="Movie",[HD]cinemax hd fpt[geo-blocked]
+https://epg.pw/stream/23b9a32d82b85cbd6f7af7a4978b7a48aaa41b3f46b3a38cc6b8c44d99a0168c.ctv
 #EXTINF:-1 tvg-name="Cinemax" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/10/29/large/20171029231536415059_20.png" group-title="Movie",[BD]cinemax (east) us[geo-blocked]
 https://epg.pw/stream/2a975eb330fa4e1378c105d256ace5cd912b134e65fa49acdd97af7cf632c298.m3u8
 #EXTINF:-1 tvg-name="Cinemax" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/10/29/large/20171029231536415059_20.png" group-title="Movie",[BD]CINEMAX USA[geo-blocked]
@@ -369,7 +369,7 @@ https://epg.pw/stream/570ecb5abcc43f23cfe6a8f30aad3c210dd4bce1d3b80a452510842080
 https://epg.pw/stream/d19713de639631f76e42e341afc5bf920b42f9e2cfcc3275fc8ead7668343521.ctv
 #EXTINF:-1 tvg-name="Disney Channel" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/11/14/large/20201114212722350581_18.png" group-title="Cartoon",[HD]DISNEY CHANNEL[geo-blocked]
 https://epg.pw/stream/fb083f67b1d896f96322da41d19434d2e5bca30caa3515c87de658be27033484.ctv
-#EXTINF:-1 tvg-name="Disney Channel" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/11/14/large/20201114212722350581_18.png" group-title="Cartoon",[SD]disney channel@@1
+#EXTINF:-1 tvg-name="Disney Channel" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/11/14/large/20201114212722350581_18.png" group-title="Cartoon",[VGA]disney channel@@1[geo-blocked]
 https://epg.pw/stream/d9cbc8a82c9de475c72e12734efe34c3bbaffccc1bb972b2191979e3ddf83d85.ctv
 #EXTINF:-1 tvg-name="Disney Channel" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/11/14/large/20201114212722350581_18.png" group-title="Cartoon",[BD]disney channel (east) us[geo-blocked]
 https://epg.pw/stream/7f99f9346df7c374e3301831b6157e63892c11f821bcdb0cd75d98bf868bd938.m3u8
@@ -1375,7 +1375,7 @@ https://epg.pw/stream/ddefb0b700b38d14ca043ceb5177e847b77b09ad0502ce12432645c4f6
 https://epg.pw/stream/6e0ee2a8616d99d03172c5cb260c43017b27b69c80e8eef0d70a8e759ea983fa.m3u8
 #EXTINF:-1 tvg-name="tvs classic movies" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/19/20140519075921354843_41.png" group-title="Movie",[SD]classic movies channel@@1[geo-blocked]
 https://epg.pw/stream/2caaeebff9c9fa14dc1c834739af740e786b3ce6bfea1dc94587b636ea2e71f2.m3u8
-#EXTINF:-1 tvg-name="ucv tv" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020637494753_10.png" group-title="Sport",[VGA]ucv tv
+#EXTINF:-1 tvg-name="ucv tv" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020637494753_10.png" group-title="Sport",[HD]ucv tv
 https://epg.pw/stream/0ace825348c12095f1649c4a87ea45f67c4c8acb966f4bfa5cfb1b5f7f9a49df.m3u8
 #EXTINF:-1 tvg-name="unbeaten (1080p)" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/07/06/large/20220706151400320647_11.png" group-title="Sport",[BD]unbeaten (1080p)
 https://epg.pw/stream/268e1fc7b27e7133fbf1c6f7a454baf95d5da425f20113dd2a7de0d0410157a7.m3u8
