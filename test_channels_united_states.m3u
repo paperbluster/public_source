@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-#EXTINF:-1 tvg-name="30a the beach show (720p)" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/06/large/20190106151553228539_89.png" group-title="Other",[HD]30a the beach show (720p)
+#EXTINF:-1 tvg-name="30a the beach show (720p)" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/06/large/20190106151553228539_89.png" group-title="Other",[HD]30a the beach show (720p)[geo-blocked]
 https://epg.pw/stream/f79fee8553c3d9549e4c10f25692eaaec8cbdc36f6fd6bda7d35926a908ad6ea.m3u8
 #EXTINF:-1 tvg-name="5 star max (east)" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020557769714_94.png" group-title="Movie",[BD]5 star max (east)[geo-blocked]
 https://epg.pw/stream/b52e3eba784ffb7cd3d7cadaed4cba56f98993eabf3e30036df1761cd67efd03.m3u8
@@ -139,7 +139,7 @@ https://epg.pw/stream/127821fdd1abcf0adcc0bf12a19814b8a1921b31bac310100578efa6fb
 https://epg.pw/stream/6f96d2c50d049abd55b52db864a9451f1b37c72d6a899feb3a7957be4098f69e.ctv
 #EXTINF:-1 tvg-name="Cocoro TV" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/01/19/large/20220119220023717248_81.png" group-title="Cartoon",[VGA]concord tv (concord ca) (720p)[geo-blocked]
 https://epg.pw/stream/fbc0730f248ec08e2883e834a51925773d44af6431c4cb393363edad72b0b1ec.m3u8
-#EXTINF:-1 tvg-name="Comedy" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121235737341364_51.jpg" group-title="Entertainment",[HD]comedy play (720p)
+#EXTINF:-1 tvg-name="Comedy" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121235737341364_51.jpg" group-title="Entertainment",[VGA]comedy play (720p)
 https://epg.pw/stream/d4c1eeba98dc92a59250791afeed125bf79cdc5d84d29f7395bb9dc86c635f63.m3u8
 #EXTINF:-1 tvg-name="Comedy" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121235737341364_51.jpg" group-title="Entertainment",[HD]COMEDY CENTRAL USA[geo-blocked]
 https://epg.pw/stream/0b061a57785cd91d13faa9689ea8bcdb45ee9625d5b5a741c3a9fe9b04baf514.ctv
@@ -239,7 +239,7 @@ https://epg.pw/stream/104bdb81b12cb7fca728b0f61f3e9b014cc81b200420d5b049f28a56a4
 https://epg.pw/stream/0dc196f1e1e647eea9c1f65854ec36c2a0085b8f9436b2cde64541010a606a81.ctv
 #EXTINF:-1 tvg-name="HBO Family" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/hbofamily.PNG" group-title="Movie",[BD]hbo family
 https://epg.pw/stream/b65054895d0e17770df7be8145290cd2c9b87e461cc1363b2a16223a5a654e14.ctv
-#EXTINF:-1 tvg-name="HBO Family" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/hbofamily.PNG" group-title="Movie",[BD]hbo family[geo-blocked]
+#EXTINF:-1 tvg-name="HBO Family" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/hbofamily.PNG" group-title="Movie",[SD]hbo family[geo-blocked]
 https://epg.pw/stream/e630168962ef858be879b07867cb51209502977f929fcd0806d6c56beb4e5344.ctv
 #EXTINF:-1 tvg-name="HBO Family" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/hbofamily.PNG" group-title="Movie",[BD]hbo family (west)[geo-blocked]
 https://epg.pw/stream/7513daa08a732acbadcf9c220ba81e475f2d9b2198afd937e69adc2e53512fa0.m3u8
@@ -301,7 +301,7 @@ https://epg.pw/stream/a0976fb31d5681ac21397674e1fe7181a6a29ec2073adc4c0ae921b9c5
 https://epg.pw/stream/2be690571399aa93091cc4de594713228eb604f10e8f25d3c877b15f2f2dfaba.m3u8
 #EXTINF:-1 tvg-name="Newsmax" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/01/21/large/20210121205319348415_63.png" group-title="News",[HD]newsmax tv@@1
 https://epg.pw/stream/fd312347055e2f554bfdccbf344d4ab97d247b987a2a2489cdbf9e692877787f.m3u8
-#EXTINF:-1 tvg-name="Newsmax" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/01/21/large/20210121205319348415_63.png" group-title="News",[BD]newsmax (720p)[geo-blocked]
+#EXTINF:-1 tvg-name="Newsmax" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/01/21/large/20210121205319348415_63.png" group-title="News",[HD]newsmax (720p)[geo-blocked]
 https://epg.pw/stream/9b8ccb137a356b8eac2498744694848e5c7d6b4ffe0592b93c7e9eb3fc7b0b41.m3u8
 #EXTINF:-1 tvg-name="Paramount Network" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/25/large/20220925225231999447_80.png" group-title="Generic",[BD]paramount network (east) us[geo-blocked]
 https://epg.pw/stream/4a2163e52a10b05be4d7ff0b676aac915bafe8fa6b4e556cd7c5ec6287d4dcc9.m3u8
@@ -419,7 +419,7 @@ https://epg.pw/stream/2fda3ed45882078ec1ee90d6c92e5d58365eb441c220843290d711e3f8
 https://epg.pw/stream/9d65867550ed21b9e31fbbf84010debbcebc9149ff12b9482a05a514c0ddaf3c.m3u8
 #EXTINF:-1 tvg-name="bloombergtv" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/Bloomberg.PNG" group-title="News",[HD]bloomberg tv@@2[geo-blocked]
 https://epg.pw/stream/7c5b453c719ea064db6e98a4f293eba24bea2e8c2d8fe2139f72868a48904393.m3u8
-#EXTINF:-1 tvg-name="bloombergtv" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/Bloomberg.PNG" group-title="News",[HD]bloomberg tv@@3[geo-blocked]
+#EXTINF:-1 tvg-name="bloombergtv" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/Bloomberg.PNG" group-title="News",[VGA]bloomberg tv@@3[geo-blocked]
 https://epg.pw/stream/4ecc7e7a18623841f4489ce24e297941b979630ec1e37a2168ddc34f9814ac54.m3u8
 #EXTINF:-1 tvg-name="bloombergtv" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/Bloomberg.PNG" group-title="News",[BD]bloomberg tv+
 https://epg.pw/stream/c866363d4b7de7c85b616ba7eef34c5f3f10096fbc6f5e02433e09413a2ff69e.m3u8
