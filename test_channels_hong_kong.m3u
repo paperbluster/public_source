@@ -69,6 +69,8 @@ https://epg.pw/stream/8cb6bea748427bbc2cc171e39457f629f39d6342f744a333ba85800a18
 https://epg.pw/stream/0eab6241cf13ac3d52485869be7750cdf3d4366792dd4ac805449d6c39a4990a.m3u8
 #EXTINF:-1 tvg-name="hks" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/a254ac1b805ee16bf8802d640b69f32d.jpg" group-title="其它",[VGA]hks@@1[geo-blocked]
 https://epg.pw/stream/f0e840d76846f52b5e1c05c153feeed7956fe2522e5f1f4c2a07042ebc5ad14d.m3u8
+#EXTINF:-1 tvg-name="now Sports 3" tvg-id="11134" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722210240056560_16.png" group-title="運動",[BD]tnt sports 3[geo-blocked]
+https://epg.pw/stream/acea1329a256bbe0fad9913a2f3b5089a532eae8e84e864ada8cd77b29f51d44.m3u8
 #EXTINF:-1 tvg-name="ptv granada" tvg-id="" tvg-country="香港" tvg-language="英文" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="其它",[HD]ptv granada
 https://epg.pw/stream/e60822b3fb6b60d8a5a8e23c4343b8c0053e04adad53bbdde18ff8db3625d82b.m3u8
 #EXTINF:-1 tvg-name="star (720p)" tvg-id="" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/img/logo/1_263.jpg" group-title="運動",[HD]star (720p)
@@ -109,6 +111,8 @@ https://epg.pw/stream/8698c8b9b08aa02fcb8ae0625a0a0e6a2a2e4245d808f8b89e472465be
 https://epg.pw/stream/9eba5b8c19187b49a71080ebc17c848c15a04a9b099e571d376374d8ab99f3cf.ctv
 #EXTINF:-1 tvg-name="无线新闻" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807134835358971_10.jpg" group-title="新聞",[HD]无线新闻[geo-blocked]
 https://epg.pw/stream/c4ed6ad793bc69002f22845063b4b073c5aff6ded2f6cd72c47a6c890de4ad45.ctv
+#EXTINF:-1 tvg-name="有线18" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/img/logo/1_15.jpg" group-title="其它",[HD]有线18
+rtmp://218.32.29.20/sat/hk021
 #EXTINF:-1 tvg-name="有线18" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/img/logo/1_15.jpg" group-title="其它",[HD]有线18@@1[geo-blocked]
 https://epg.pw/stream/c6150f5371d2b749b596e0768d145709e67495e33d5c4c73496d48b79a96f9e4.ctv
 #EXTINF:-1 tvg-name="有线新闻" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2020/07/14/large/20200714005324551300_94.png" group-title="新聞",[HD]有线新闻@@1[geo-blocked]
@@ -195,7 +199,7 @@ https://epg.pw/stream/99980f8e82d6d4111c77f2fe961013e7d1ee153a55c7a9be69cfa17143
 https://epg.pw/stream/3115911899716fcaf879c2b870f865413c216f376459057831713eec922aeb7d.m3u8
 #EXTINF:-1 tvg-name="香港衛視" tvg-id="" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720203020466405_42.png" group-title="綜合",[SD]香港卫视
 https://epg.pw/stream/d08acacbd344b809742347196e0cb8b0ac3eb21c345eb495c954e8713700cfc5.m3u8
-#EXTINF:-1 tvg-name="香港衛視" tvg-id="" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720203020466405_42.png" group-title="綜合",[VGA]香港卫视@@3[geo-blocked]
+#EXTINF:-1 tvg-name="香港衛視" tvg-id="" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720203020466405_42.png" group-title="綜合",[SD]香港卫视@@3
 https://epg.pw/stream/a89f39363a4480257d52170622c50178d3e511221ae42e9cf145ba8879f51cca.m3u8
 #EXTINF:-1 tvg-name="香港衛視" tvg-id="" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720203020466405_42.png" group-title="綜合",[SD]香港卫视
 https://epg.pw/stream/819fd0a3c22f662eca7cc397a42c80108b0730dd11c9716b7f2d5023d6b89818.ctv
