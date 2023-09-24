@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-name="Animax HD" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719233837246410_13.jpg" group-title="Cartoon",[HD]animax hd dự phòng[geo-blocked]
 https://epg.pw/stream/d73bc7afbf9ef3b9fef6b68a611887c6d1e7897eb1ec05980b17a59d2c7c9b6c.m3u8
+#EXTINF:-1 tvg-name="FUJI TV" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2023/05/25/large/20230525152207961164_64.png" group-title="Generic",[SD]fuji tv@@1[geo-blocked]
+https://epg.pw/stream/942b85c8c12e449e2bd42f83dae8d1b69e4c9505e3abfec3f2bdcc89216e3f3f.m3u8
 #EXTINF:-1 tvg-name="FUJI TV" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2023/05/25/large/20230525152207961164_64.png" group-title="Generic",[HD]ช่อง fuji tv
 https://epg.pw/stream/9c17a421b30c8a69f345035d52b2e5e1c9234b7b222050353ba448052d016cc1.m3u8
 #EXTINF:-1 tvg-name="FUJI TV" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2023/05/25/large/20230525152207961164_64.png" group-title="Generic",[VGA]fuji tv[geo-blocked]
@@ -57,7 +59,7 @@ https://epg.pw/stream/2d58f2c6ab41a849c0d30738163853210609e7de29afc3bdf41cd0064a
 https://epg.pw/stream/95ab877c5f11bcb07265ac9f7600da2c5a5966ac61f10cf1c8ada59177c8b483.m3u8
 #EXTINF:-1 tvg-name="TOKYO MX" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/12/large/20220512210811824393_73.jpg" group-title="Generic",[HD]tokyo mx1[geo-blocked]
 https://epg.pw/stream/e64faff85535292629097f1bfcc6c52f99adda47841b046ff9cc889fd935add1.m3u8
-#EXTINF:-1 tvg-name="TOKYO MX" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/12/large/20220512210811824393_73.jpg" group-title="Generic",[HD]tokyo mx1@@1
+#EXTINF:-1 tvg-name="TOKYO MX" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/12/large/20220512210811824393_73.jpg" group-title="Generic",[BD]tokyo mx1@@1
 https://epg.pw/stream/f32c72047ab5cfd251066690d563beb480d9eda3e721b25595fafb435a90a9f0.ctv
 #EXTINF:-1 tvg-name="TOKYO MX" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/12/large/20220512210811824393_73.jpg" group-title="Generic",[SD]tokyo mx 1 (360p)[geo-blocked]
 https://epg.pw/stream/bef82f194dd1cb18d25940f667b4def9e1f01c6c28d2dc9964cd52ee6438e6a3.m3u8
@@ -77,6 +79,8 @@ https://epg.pw/stream/90e8b6cde6bf203efd7f488da74489807032791d3427c2bc77398142b7
 https://epg.pw/stream/92e85c4ebf6fa5004c9fe6aa17841ff17ff3f455c3852eb56a47a37c1a8386d3.ctv
 #EXTINF:-1 tvg-name="bs tv tokyo" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513161218702110_33.jpg" group-title="Generic",[SD]ช่อง bs tv tokyo
 https://epg.pw/stream/5072cb032c7ef48ffb20d563c3faf41cd1edf91b67d5691e5b1405a8bf1066f5.m3u8
+#EXTINF:-1 tvg-name="bs tv tokyo" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513161218702110_33.jpg" group-title="Generic",[SD]tv tokyo[geo-blocked]
+https://epg.pw/stream/824b77d9d4eda0f144f4959edab87261cb9c2b2f824ecd0b88ff99c7b127cafe.m3u8
 #EXTINF:-1 tvg-name="golazo network" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513161120466668_77.jpg" group-title="Sport",[HD]golazo network[geo-blocked]
 https://epg.pw/stream/10e2713867d96f3e3844a4e06e1f06ff9eadde7f1cb5d9784d084ed115a3624c.m3u8
 #EXTINF:-1 tvg-name="golazo network" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513161120466668_77.jpg" group-title="Sport",[HD]lol! network
@@ -159,6 +163,8 @@ https://epg.pw/stream/9a762af5bd7cd548d302d7ede1670b31998773ffb064b85e1a516d601f
 https://epg.pw/stream/8203aee77eb237d792d70b4819599175397e6d79a48c6715f01cb272897861d4.ctv
 #EXTINF:-1 tvg-name="tbs" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/04/20160104191719486833_84.jpg" group-title="Generic",[SD]tbs@@1
 https://epg.pw/stream/e2e98b2e0b04ad7ce01dc1e8ff08191569cd1306d3d593697c4dc0db953e55f5.m3u8
+#EXTINF:-1 tvg-name="tbs" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/04/20160104191719486833_84.jpg" group-title="Generic",[SD]tbs@@2[geo-blocked]
+https://epg.pw/stream/67fc5b7c1c63ecc56febda9bbe5ecfb06e41c0f39656bc20336ec9ef1fc9bbd4.m3u8
 #EXTINF:-1 tvg-name="tennis channel" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/09/21/large/20210921164213208358_67.png" group-title="Other",[BD]tennis channel[geo-blocked]
 https://epg.pw/stream/ddcbfd3aacdf295158f39ded4a5e21761de6a5c9d2775d16ecbf068441ac87d9.m3u8
 #EXTINF:-1 tvg-name="tokyo mx2 (720p)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021031598077_51.png" group-title="News",[HD]tokyo mx2 (720p)[geo-blocked]
