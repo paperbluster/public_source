@@ -19,6 +19,8 @@ https://epg.pw/stream/c04b126c94ee14ab1db288325e884ef74ffd632960238e993618acc1ac
 https://epg.pw/stream/7d926642a2e4a71e6a8721e4fa7dc37d11d1801783f4992a3fc794ef2f404bfb.m3u8
 #EXTINF:-1 tvg-name="RTHK32" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719083827856598_33.png" group-title="新聞",[HD]rthk32
 https://epg.pw/stream/32c03d40ac25db200f05551ace248b8cf2b807859aab2888e78227870ebadf67.ctv
+#EXTINF:-1 tvg-name="RTHK32" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719083827856598_33.png" group-title="新聞",[VGA]rthk32@@1
+https://epg.pw/stream/12f46916d8d16f6d12d2429793cb85b586a52d202b2ffe3a9db10ac38d6b331f.m3u8
 #EXTINF:-1 tvg-name="RTHK33" tvg-id="" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724141930738371_29.png" group-title="新聞",[BD]rthktv33
 https://epg.pw/stream/7784f202591797be966bdec85d8d6e73e53bab96368869e775a142e8ffeaf93c.m3u8
 #EXTINF:-1 tvg-name="RTHK34" tvg-id="" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/08/22/large/20220822225312895053_10.png" group-title="新聞",[VGA]rthk34
@@ -43,8 +45,6 @@ https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c39184061
 https://epg.pw/stream/e063ee2925c2160d15c5804e61dd4d09836ce2cfeb22d89e7c90f7491270a68d.m3u8
 #EXTINF:-1 tvg-name="Viu TV" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193925517675_19.png" group-title="運動",[HD]360 tv (720p) [not 24/7]
 https://epg.pw/stream/813fe962130bf27d85d2a8f6114a7fb066f40b7323165ce8c3bc26ff0cb5ef7f.m3u8
-#EXTINF:-1 tvg-name="ViuTV HD" tvg-id="10957" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193225282526_84.png" group-title="綜藝",[HD]viutv@@1
-https://epg.pw/stream/8364f173f45162eb4dda2149f59a9e84544fe18360b5f998512210bfca8211a4.ctv
 #EXTINF:-1 tvg-name="ViuTV HD" tvg-id="10957" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193225282526_84.png" group-title="綜藝",[BD]viutv@@3[geo-blocked]
 https://epg.pw/stream/2e54819f588afef58249b383b55789976f6d29893af0e745a8b74109f7daedc8.m3u8
 #EXTINF:-1 tvg-name="ViuTV HD" tvg-id="10957" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193225282526_84.png" group-title="綜藝",[BD]viutv@@2[geo-blocked]
@@ -139,8 +139,6 @@ https://epg.pw/stream/8dcda10eb1debea0dc3c59d849d382dc315925c6e2952b37402e94cd6a
 https://epg.pw/stream/2d90e0737154beb4ce17e801028dbcecc031b0b818909f28c0f415a0cac2e33c.m3u8
 #EXTINF:-1 tvg-name="甄子丹" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/10/14/20161014131011501629_83.jpg" group-title="其它",[HD]甄子丹[geo-blocked]
 https://epg.pw/stream/4c65cee79a22a5ca55ca05fb71f8c21edcbe2fdfafdbc3f464643cb925d16275.ctv
-#EXTINF:-1 tvg-name="翡翠台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="綜合",[SD]翡翠台[geo-blocked]
-https://epg.pw/stream/f8abbdf5312cd5274ea4bc7602ae3320fb86083f7a07c8c2f08027421f54ad51.ctv
 #EXTINF:-1 tvg-name="翡翠台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="綜合",[HD]翡翠台@@1[geo-blocked]
 https://epg.pw/stream/72d4915ec44c10747097256e886a068d1b80edf5de9c15573fd0d896b8580858.ctv
 #EXTINF:-1 tvg-name="翡翠台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="綜合",[BD]翡翠台@@2[geo-blocked]
