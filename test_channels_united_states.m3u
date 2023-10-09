@@ -35,12 +35,12 @@ https://epg.pw/stream/4400bb00a02e49788c3950c10be814025e11486e3b9283200d0c1cd679
 https://epg.pw/stream/5dbc478ea52866d0c20cc917c8f37b8b896e88e5407daabc354cc0e050ae5505.ctv
 #EXTINF:-1 tvg-name="A&E HD" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416005636091626_15.png" group-title="Movie",[HD]a&e@@1
 https://epg.pw/stream/f8cf45094479946819d406e13cd85c78c27749cc4da0cbbd7efab84c9327f114.m3u8
-#EXTINF:-1 tvg-name="ABC MIAMI" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/09/large/20230609161040674869_63.jpg" group-title="News",[HD]miami@@2[geo-blocked]
-https://epg.pw/stream/692089a5633d4a9d9f1a554d68dacfee53e82c8504e5715b1a128caa27b9b588.m3u8
 #EXTINF:-1 tvg-name="ABC MIAMI" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/09/large/20230609161040674869_63.jpg" group-title="News",[HD]miami@@3[geo-blocked]
 https://epg.pw/stream/dd7613caa75383a868d6ffc5e4e64b116beb87218b3b2f35f4df64c27126eee9.m3u8
 #EXTINF:-1 tvg-name="ABC MIAMI" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/09/large/20230609161040674869_63.jpg" group-title="News",[HD]miami@@1[geo-blocked]
 https://epg.pw/stream/6183026e7a731fd413e979e24ace8cdb68ee6206d43df8aa3e0df1f542e67dc4.m3u8
+#EXTINF:-1 tvg-name="ABC MIAMI" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/09/large/20230609161040674869_63.jpg" group-title="News",[HD]miami@@2[geo-blocked]
+https://epg.pw/stream/692089a5633d4a9d9f1a554d68dacfee53e82c8504e5715b1a128caa27b9b588.m3u8
 #EXTINF:-1 tvg-name="ABC MIAMI" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/09/large/20230609161040674869_63.jpg" group-title="News",[HD]miami[geo-blocked]
 https://epg.pw/stream/cb4cdc2b64bc840dc9e89c4db084a0a11d830ca587db0f79fa0a3c676641c40c.m3u8
 #EXTINF:-1 tvg-name="ABC NEWS" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/10/09/20171009012506131666_63.png" group-title="News",[SD]abc news (720p)@@1[geo-blocked]
@@ -316,8 +316,6 @@ https://epg.pw/stream/bf9c7383dcea9ef705a2779742a6a1b2aae2ff582e0103bd2a7ecfba56
 #EXTINF:-1 tvg-name="CNN" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/13/large/20190113215800701920_63.jpg" group-title="News",[HD]cnn@@4
 https://epg.pw/stream/c3965e5f8f393efa876f1f7787d23122223d866ddb298a948cfd728c518edfd2.m3u8
 #EXTINF:-1 tvg-name="CNN HD" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/13/large/20190113215800701920_63.jpg" group-title="News",[BD]CNN HD[geo-blocked]
-https://epg.pw/stream/ff73a82ac545efee9849bf63624a455f55956678ddb45840d2bc68d9536f0552.ctv
-#EXTINF:-1 tvg-name="CNN HD" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/13/large/20190113215800701920_63.jpg" group-title="News",[BD]CNN HD[geo-blocked]
 https://epg.pw/stream/8ed37adb52fc0aae75268338dd7e5193ecc1fb8d07321bb11224f8279fe0edca.ctv
 #EXTINF:-1 tvg-name="CNN HD" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/13/large/20190113215800701920_63.jpg" group-title="News",[BD]CNN HD[geo-blocked]
 https://epg.pw/stream/80bbb895562573ba48348592dc044b91500e7a572961a46c5b1707c22b93d308.ctv
@@ -341,6 +339,8 @@ https://epg.pw/stream/05588397ad3d54dd91a4a32d78170e3169d3f9cc1338fe66d77326a32c
 https://epg.pw/stream/be8f90c500461e0271036d730ba301663928bf3f837257c7780739066db7f89f.ctv
 #EXTINF:-1 tvg-name="CNN HD" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/13/large/20190113215800701920_63.jpg" group-title="News",[BD]CNN HD[geo-blocked]
 https://epg.pw/stream/9609ff34a92891fe1a2c1ac06fb275b38706273c2daeee74dffd82745d05b5f1.ctv
+#EXTINF:-1 tvg-name="CNN HD" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/13/large/20190113215800701920_63.jpg" group-title="News",[BD]CNN HD[geo-blocked]
+https://epg.pw/stream/ff73a82ac545efee9849bf63624a455f55956678ddb45840d2bc68d9536f0552.ctv
 #EXTINF:-1 tvg-name="CNN HLN" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/11/10/large/20171110233817958026_90.png" group-title="News",[HD]hln
 https://epg.pw/stream/32960459932c42fc75b417bd52b788d195d72c289c5a07a3db3df42e08b27e00.m3u8
 #EXTINF:-1 tvg-name="Cinemax" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/10/29/large/20171029231536415059_20.png" group-title="Movie",[VGA]cinemax@@1[geo-blocked]
