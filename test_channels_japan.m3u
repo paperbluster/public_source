@@ -17,9 +17,9 @@ https://epg.pw/stream/77b3b1459ffad670e3ca8da2314788e4042392db2fc79afaa6e086c031
 https://epg.pw/stream/39c387b5a1bb11fc1950a4fd6b0a1e1ff46e319b8c162426132d69768a059af1.m3u8
 #EXTINF:-1 tvg-name="GSTV Japan" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021051759297_40.png" group-title="Hot",[HD]GSTV[geo-blocked]
 https://epg.pw/stream/7384c81899615bad02a5f2588f979811985fcab234c99448abeffe317e2f53e4.ctv
-#EXTINF:-1 tvg-name="J SPORTS 1" tvg-id="10761" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514165726980841_51.jpg" group-title="Sport",[HD]j sports 1[geo-blocked]
+#EXTINF:-1 tvg-name="J SPORTS 1" tvg-id="10761" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514165726980841_51.jpg" group-title="Sport",[HD]j sports 1
 https://epg.pw/stream/53774e5dcaba3afb84caaf370039bc6852a1aa470100e0a8245fc9e8a2d99416.m3u8
-#EXTINF:-1 tvg-name="J SPORTS 2" tvg-id="10768" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162826971601_87.jpg" group-title="Sport",[HD]j sports 2
+#EXTINF:-1 tvg-name="J SPORTS 2" tvg-id="10768" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162826971601_87.jpg" group-title="Sport",[HD]j sports 2[geo-blocked]
 https://epg.pw/stream/4acf274c88fa11e09276ce59070de91e4c5c62e186116acd77a0aec74eb0256d.m3u8
 #EXTINF:-1 tvg-name="J SPORTS 4" tvg-id="10829" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162616728241_88.jpg" group-title="Sport",[HD]j sports 4
 https://epg.pw/stream/3692c40f884349c5fbd21b64fa3bae93d9c12e94704637704360dcf809274ed3.m3u8
@@ -125,9 +125,13 @@ https://epg.pw/stream/47538f71b21ec7b26b66dd144abfff20c51b75e0e206b8c2b0a90ce617
 https://epg.pw/stream/de13e87b8eb00f0cf6d1daaf2faf83e60d17eacc30240fa9a98110a123fa8ead.m3u8
 #EXTINF:-1 tvg-name="nhk world premium" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/img/logo/1_2.png" group-title="News",[HD]nhk world
 https://epg.pw/stream/bef8cba2d8138b68bfe911a67fbd82c5001a748c6aede3fabdb5b5712964eb53.m3u8
-#EXTINF:-1 tvg-name="ntv news24 (480p)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513154632979433_35.jpg" group-title="News",[VGA]ntv news24 (480p)
+#EXTINF:-1 tvg-name="ntv news24" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513154632979433_35.jpg" group-title="News",[BD]ntv news24[geo-blocked]
+https://epg.pw/stream/f1e057b6a5bd9e64ccb8b92b04d963b7ffe651cc71932de375d7495f4ae890a1.m3u8
+#EXTINF:-1 tvg-name="ntv news24" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513154632979433_35.jpg" group-title="News",[BD]nta news 24[geo-blocked]
+https://epg.pw/stream/e87a129397d8898c724900a1fe8f440fad4065797674d91b9e166121565ad0d7.m3u8
+#EXTINF:-1 tvg-name="ntv news24" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513154632979433_35.jpg" group-title="News",[VGA]ntv news24 (480p)
 https://epg.pw/stream/4234397cc543f65c4766c647e3a386d452249c491522997e093504f12a1ed999.m3u8
-#EXTINF:-1 tvg-name="ntv news24 (480p)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513154632979433_35.jpg" group-title="News",[VGA]ntv news 24
+#EXTINF:-1 tvg-name="ntv news24" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513154632979433_35.jpg" group-title="News",[VGA]ntv news 24
 https://epg.pw/stream/e6ec4168fcc1c514d6df115a89f8d67897605e4eee236b137350c2d007e6fd0d.m3u8
 #EXTINF:-1 tvg-name="qvc japan" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021009758839_20.png" group-title="Other",[VGA]qvc japan[geo-blocked]
 https://epg.pw/stream/d34f9ebda94f7bde1c39be3e90123001ee9c725b64644244624abe1dc79c3267.m3u8
@@ -149,6 +153,8 @@ https://epg.pw/stream/e2e98b2e0b04ad7ce01dc1e8ff08191569cd1306d3d593697c4dc0db95
 https://epg.pw/stream/67fc5b7c1c63ecc56febda9bbe5ecfb06e41c0f39656bc20336ec9ef1fc9bbd4.ctv
 #EXTINF:-1 tvg-name="tbs news" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021034838060_48.png" group-title="News",[HD]tbs news[geo-blocked]
 https://epg.pw/stream/e50ea97d892a4593aec7531c92da399b19e970b4b6a5b438fb8ff884bcabc7c8.m3u8
+#EXTINF:-1 tvg-name="tbs news" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021034838060_48.png" group-title="News",[BD]tvbs news[geo-blocked]
+https://epg.pw/stream/5fe8dcdcd7d52cdfdbd0ee3b2f3f06f1536249726a1c3e1345d06c1264a8e3e5.m3u8
 #EXTINF:-1 tvg-name="tennis channel" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/09/21/large/20210921164213208358_67.png" group-title="Other",[BD]tennis channel[geo-blocked]
 https://epg.pw/stream/ddcbfd3aacdf295158f39ded4a5e21761de6a5c9d2775d16ecbf068441ac87d9.m3u8
 #EXTINF:-1 tvg-name="tv tokyo" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513161218702110_33.jpg" group-title="Generic",[HD]tv tokyo@@1
