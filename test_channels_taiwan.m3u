@@ -25,7 +25,7 @@ https://epg.pw/stream/82ff8c8ec456b1962bee8e8d0498490a2645b3dd7c1859c8e9205f03e5
 https://epg.pw/stream/2a63b6b452476ad70f44d7542285658331bc0115d4f6fff1c2ef130159124620.m3u8
 #EXTINF:-1 tvg-name="MY Kids TV" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2021/11/27/large/20211127205106995132_94.png" group-title="動畫",[VGA]kids tv
 https://epg.pw/stream/6eac2a61653b4a833b2fa5563bb68ba8769ff2007298270709852963dafa6b8d.m3u8
-#EXTINF:-1 tvg-name="Nat Geo(TW)" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601220556736344_25.png" group-title="紀實",[VGA]nat geo@@1
+#EXTINF:-1 tvg-name="Nat Geo(TW)" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601220556736344_25.png" group-title="紀實",[VGA]nat geo@@1[geo-blocked]
 https://epg.pw/stream/e4e08723b96c9f9acb89857f36732ba8cdd932a33ceffd149c145a14ab959c31.m3u8
 #EXTINF:-1 tvg-name="ROCK ENTERTAINMENT" tvg-id="11995" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318090618776046_10.png" group-title="綜藝",[HD]ROCK ENTERTAINMENT[geo-blocked]
 https://epg.pw/stream/4bb4ef47ae6a0583a782a923f85c34bcee585624f9b1489f23e87e67e2bc0c92.ctv
@@ -249,7 +249,7 @@ https://epg.pw/stream/839bd1c9378b73c9c5b21d3ec7839de4673acaa1b57c1de83aedf0422d
 https://epg.pw/stream/eed37c9d7d82dc884bdfa04703da80f8bdb4e9910fbd2b396c8f72fb66093c75.m3u8
 #EXTINF:-1 tvg-name="尼克兒童臺" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/06/02/large/20230602225056726647_35.jpg" group-title="動畫",[BD]尼克儿童频道
 https://epg.pw/stream/3f9e0cbf40dd4828d593f974c80730357e4fdc12f11b239ef6f6542e21e781a4.m3u8
-#EXTINF:-1 tvg-name="成龙" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2019/04/05/large/20190405221540697725_47.jpg" group-title="電影",[SD]成龙[geo-blocked]
+#EXTINF:-1 tvg-name="成龙" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2019/04/05/large/20190405221540697725_47.jpg" group-title="電影",[HD]成龙[geo-blocked]
 https://epg.pw/stream/64d9d1f55a1eec1fefc81dd5153d694bde9ecf5bf4300d1ca75e7d6cfb1c680c.ctv
 #EXTINF:-1 tvg-name="星卫hd电影台" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2016/12/22/large/20161222212033073052_58.png" group-title="電影",[VGA]星卫hd电影台@@1[geo-blocked]
 https://epg.pw/stream/139527e97b87c46e23c2c595895faea2b7e94782ce4b561aaab47bd1f2047de9.ctv
@@ -325,10 +325,10 @@ https://epg.pw/stream/d0bc3876c3c39e995f65f2a459449587e1bb4cd79a211a228e8837b5bd
 rtmp://9sv2.mine.nu:1935/sat/tv771
 #EXTINF:-1 tvg-name="緯來電影" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105432854571_34.png" group-title="電影",[VGA]纬来电影台@@1[geo-blocked]
 https://epg.pw/stream/2e5be034655ad890ccea231870954edc27f6b59a7ac6c4a684cec7a90e9afab8.ctv
-#EXTINF:-1 tvg-name="緯來體育" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105618864183_26.png" group-title="運動",[VGA]緯來體育@@1[geo-blocked]
-https://epg.pw/stream/65161be2ecd7c7b2e054dbac30922b2673b4eff6497b77c71bb81215aa826cc4.m3u8
 #EXTINF:-1 tvg-name="緯來體育" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105618864183_26.png" group-title="運動",[BD]緯來體育
 rtmp://9sv2.mine.nu:1935/sat/tv721
+#EXTINF:-1 tvg-name="緯來體育" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105618864183_26.png" group-title="運動",[VGA]緯來體育@@1[geo-blocked]
+https://epg.pw/stream/65161be2ecd7c7b2e054dbac30922b2673b4eff6497b77c71bb81215aa826cc4.m3u8
 #EXTINF:-1 tvg-name="緯來體育" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105618864183_26.png" group-title="運動",[HD]緯來體育
 rtmp://9sv2.mine.nu:1935/sat/tv721
 #EXTINF:-1 tvg-name="美食星球频道" tvg-id="11120" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2019/01/15/large/20190115231935257259_29.jpg" group-title="其它",[VGA]美食星球频道@@1[geo-blocked]
