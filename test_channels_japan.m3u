@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-name="BSテレビ東京" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021100323506_16.png" group-title="News",[SD]テレビ東京[geo-blocked]
 https://epg.pw/stream/6a0f993c48b264be0be120f51a6dfc393bfa8a3ff76c6f025c766d2e4b60d2a0.m3u8
-#EXTINF:-1 tvg-name="BSテレビ東京" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021100323506_16.png" group-title="News",[VGA]テレビ東京@@1[geo-blocked]
+#EXTINF:-1 tvg-name="BSテレビ東京" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021100323506_16.png" group-title="News",[HD]テレビ東京@@1
 https://epg.pw/stream/2e5a2932d6026dc80d2e2506cfbf27242b1ad68831dd9b7663626b28bfa43dd3.m3u8
 #EXTINF:-1 tvg-name="BSフジ" tvg-id="10800" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021058799459_27.png" group-title="News",[SD]bsフジ[geo-blocked]
 https://epg.pw/stream/31f102e0563309da6084e0237816e59421140edacc6d944c2d42e90d97d16ccd.m3u8
@@ -79,12 +79,12 @@ https://epg.pw/stream/43dbb8d242d38ff4b85fffdd18c1f1b37206a864569ae31e788ff76ce7
 https://epg.pw/stream/d2e3efbdcef6f02d37ed1de44294670b92fbffa87724c505d9c868ed5adba2a7.m3u8
 #EXTINF:-1 tvg-name="NHK World Japan" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/03/05/large/20220305152534604002_80.png" group-title="Generic",[HD]NHK World[geo-blocked]
 https://epg.pw/stream/98a1ed14457b07caab557495c15e7bade45309d86489ab91fe8a05a7bdb45373.ctv
-#EXTINF:-1 tvg-name="NHK World Japan" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/03/05/large/20220305152534604002_80.png" group-title="Generic",[HD]NHK World[geo-blocked]
-https://epg.pw/stream/ff0fb1af668ca855f4395d6775fbea4204b30542d1035bc003bf14bb1f7642e2.ctv
 #EXTINF:-1 tvg-name="NHK World Japan" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/03/05/large/20220305152534604002_80.png" group-title="Generic",[BD]NHK World Japan
 https://epg.pw/stream/ef12f9b4a642f77e946af952fc8961319ea459f48ca5e2af40b7aeba08525880.m3u8
 #EXTINF:-1 tvg-name="NHK World Japan" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/03/05/large/20220305152534604002_80.png" group-title="Generic",[HD]NHK World[geo-blocked]
 https://epg.pw/stream/cf966bc9f56ca97807c95dfc7df3c98c83cb92b7678c13ab886f89ddbedaf72b.ctv
+#EXTINF:-1 tvg-name="NHK World Japan" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/03/05/large/20220305152534604002_80.png" group-title="Generic",[HD]NHK World[geo-blocked]
+https://epg.pw/stream/d8fc232ed1d8dc451b83bee95d957328d7024d93f3515a25cf36f8d48bced2d3.ctv
 #EXTINF:-1 tvg-name="NHK World Japan" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/03/05/large/20220305152534604002_80.png" group-title="Generic",[HD]nhk world japan hd original
 https://epg.pw/stream/cf89f866ac8f124ddab1259078ba5b8e3c99b39f9d85b096f21a69650eec50b0.m3u8
 #EXTINF:-1 tvg-name="NHK World Japan" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/03/05/large/20220305152534604002_80.png" group-title="Generic",[HD]nhk world japan
@@ -101,6 +101,8 @@ https://epg.pw/stream/293259a13176bce43dc1ebe4fa6c1edbf5967ab22130996ea34a151030
 https://epg.pw/stream/4234397cc543f65c4766c647e3a386d452249c491522997e093504f12a1ed999.m3u8
 #EXTINF:-1 tvg-name="NTV NEWS 24" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513154632979433_35.jpg" group-title="News",[VGA]ntv news 24
 https://epg.pw/stream/e6ec4168fcc1c514d6df115a89f8d67897605e4eee236b137350c2d007e6fd0d.m3u8
+#EXTINF:-1 tvg-name="Netflix Horror" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/10/large/20211210235908754439_80.png" group-title="Movie",[BD]Netflix Horror[geo-blocked]
+https://epg.pw/stream/a17e34bfd67a5c9b81898f0ab3fd896d59b9b7008254c5f41b6b10c86a7ff36c.ctv
 #EXTINF:-1 tvg-name="Netflix Horror" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/10/large/20211210235908754439_80.png" group-title="Movie",[BD]Netflix Horror[geo-blocked]
 https://epg.pw/stream/a006087eacee5132e604703226e6f5eb7e73076fbaec0dcfad15a0a82255396f.ctv
 #EXTINF:-1 tvg-name="Nippon TV" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513160826666905_86.jpg" group-title="Generic",[HD]bs-nippon tv
@@ -151,7 +153,7 @@ https://epg.pw/stream/82e1e42b8ce5dc7f8b1865373573b65347189f1365d4286da50afa7abc
 https://epg.pw/stream/d5e5a71dcb8fec8a8a2d108961edfdb796ad78ec5544f4e4837646bfd6af255a.m3u8
 #EXTINF:-1 tvg-name="bs tbs" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513154427017647_84.jpg" group-title="Generic",[SD]bs tbs@@1[geo-blocked]
 https://epg.pw/stream/1f77041a63311a8fcb63adb15529f3d8d8034e3ed644d91e43b716296dfadc5a.m3u8
-#EXTINF:-1 tvg-name="bs11" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/08/27/large/20210827190336051433_50.png" group-title="News",[VGA]bs11@@2[geo-blocked]
+#EXTINF:-1 tvg-name="bs11" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/08/27/large/20210827190336051433_50.png" group-title="News",[HD]bs11@@2[geo-blocked]
 https://epg.pw/stream/5fbc42b041ceb605c264acc2d2d9610cacf644acb15b473397920e5b4ca0ef4f.ctv
 #EXTINF:-1 tvg-name="cnnj" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021057423021_50.png" group-title="News",[SD]cnnj[geo-blocked]
 https://epg.pw/stream/6e5ddf8c4dedb4f44dd9b9bc305cf175dc965664d4d95b93e5ad8a97173497e9.m3u8
