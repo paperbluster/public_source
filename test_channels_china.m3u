@@ -429,7 +429,7 @@ https://epg.pw/stream/2eb8a4aa3d47127e9c1bcc0c881a9fd01efa3909bf801258a7e0749b7d
 https://epg.pw/stream/eb6f69704f1fa8a8ac448042702cf2a58b5ad915b893d1f4e9237052a44f123a.ctv
 #EXTINF:-1 tvg-name="CCTV8" tvg-id="13850" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091148336802_98.png" group-title="電影",[BD]cctv8@@8
 https://epg.pw/stream/0a1873ab23ed1a7848161a2afe9f0afc6abf13a7fa7e8a7bf96ac4afa5919ca4.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-id="13850" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091148336802_98.png" group-title="電影",[VGA]cctv8@@22[geo-blocked]
+#EXTINF:-1 tvg-name="CCTV8" tvg-id="13850" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091148336802_98.png" group-title="電影",[BD]cctv8@@22
 https://epg.pw/stream/f4a4ccebc514a842e091aa8089baca22f370ee7cf5e431aaceeccabf352ef1eb.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-id="13850" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091148336802_98.png" group-title="電影",[BD]cctv8@@26
 https://epg.pw/stream/e0e24e959d1579e2764bb879854cc56c74044540b58103054fae6edda59158cf.ctv
@@ -595,12 +595,12 @@ https://epg.pw/stream/182476bbeaf13251289573a758465d37f1716f737f8f770d4e5980a63e
 https://epg.pw/stream/64543fe572d9034545ac4a98661562b6960fcee879fdb5b6a79832cda28a3061.m3u8
 #EXTINF:-1 tvg-name="CGTN Français" tvg-id="" tvg-country="中國大陸" tvg-language="法語" tvg-logo="https://epg.pw/media/images/channel/2022/05/20/large/20220520002319040251_53.jpg" group-title="綜合",[BD]rt français@@1
 https://epg.pw/stream/e980254b61ba471386476c3c7c9a52c66d26c31950e8f7adcc113d224d84a33f.m3u8
-#EXTINF:-1 tvg-name="CGTN Pусский" tvg-id="" tvg-country="中國大陸" tvg-language="俄語" tvg-logo="https://epg.pw/media/images/channel/2022/05/20/large/20220520002527861002_28.jpg" group-title="綜合",[SD]cgtn русский
-https://epg.pw/stream/6ca06fc1489615cf31bdce2f8cb0f6c94a2f105e22a48d6e677cbef2f79a32d0.m3u8
 #EXTINF:-1 tvg-name="CGTN Pусский" tvg-id="" tvg-country="中國大陸" tvg-language="俄語" tvg-logo="https://epg.pw/media/images/channel/2022/05/20/large/20220520002527861002_28.jpg" group-title="綜合",[BD]cgtn русский@@1
 https://epg.pw/stream/98c909e5b48bbdfc98542e48a9c9b75e5daa58934298fc11ab1dc2748959947e.ctv
 #EXTINF:-1 tvg-name="CGTN Pусский" tvg-id="" tvg-country="中國大陸" tvg-language="俄語" tvg-logo="https://epg.pw/media/images/channel/2022/05/20/large/20220520002527861002_28.jpg" group-title="綜合",[SD]cgtn русский (576p)
 https://epg.pw/stream/cd17ab0f6da0511b921f1546eaa98aaf24f3d12f6a2dc680cc8a2e5cf1a59ee6.m3u8
+#EXTINF:-1 tvg-name="CGTN Pусский" tvg-id="" tvg-country="中國大陸" tvg-language="俄語" tvg-logo="https://epg.pw/media/images/channel/2022/05/20/large/20220520002527861002_28.jpg" group-title="綜合",[SD]cgtn русский
+https://epg.pw/stream/6ca06fc1489615cf31bdce2f8cb0f6c94a2f105e22a48d6e677cbef2f79a32d0.m3u8
 #EXTINF:-1 tvg-name="CHC動作電影" tvg-id="14047" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204146046493_74.png" group-title="電影",[BD]chc动作电影@@1[ipv6]
 https://epg.pw/stream/9e5dbc0cbb15ba574f44e0d67c54cff2c85a7ed97dbb73e3b2101b26fec45cf1.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204118595367_23.png" group-title="電影",[BD]chc家庭影院[ipv6]
@@ -1481,6 +1481,8 @@ https://epg.pw/stream/2165d5b43521fde6c8fd35372ffcd84615b7c0bc28a4b48d35fa4a73cb
 https://epg.pw/stream/7ededf6ffc82172fcfba5a1b23ef8135d700f04a86f06981e289cff698cc1870.m3u8
 #EXTINF:-1 tvg-name="快樂垂釣" tvg-id="14009" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2017/11/12/large/20171112000439637548_60.jpg" group-title="運動",[BD]快乐垂钓@@4
 https://epg.pw/stream/59d25314967b9a139debdde5dc70f53598210564d50a0a89bafcc44bb8f905bc.ctv
+#EXTINF:-1 tvg-name="快樂垂釣" tvg-id="14009" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2017/11/12/large/20171112000439637548_60.jpg" group-title="運動",[BD]快乐垂钓
+https://epg.pw/stream/7cb0483c83dc3ae526125c8357bb3ae38e32b2e3bf6a1b1649a841da9542489f.ctv
 #EXTINF:-1 tvg-name="愛家購物" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510155011894336_52.jpg" group-title="其它",[VGA]爱家购物
 https://epg.pw/stream/01920761982e5b5d3bb7002dbc73ba2beb3a012456822a73568c3441289035f3.m3u8
 #EXTINF:-1 tvg-name="文物寶庫" tvg-id="14005" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507223048859805_23.jpg" group-title="其它",[BD]文物宝库
