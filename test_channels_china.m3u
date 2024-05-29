@@ -39,7 +39,7 @@ https://epg.pw/stream/65a98eb1bc5fc38505f2c025c2f0c88f31429e43104486845616deb65b
 https://epg.pw/stream/33ea22757cba1b0db1f39c0b43548c021c847049eb781d27e3c96ce7edf818c9.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-id="13852" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091921731943_14.png" group-title="其它",[BD]cctv10@@15[ipv6]
 https://epg.pw/stream/401de7367171f8520986809ac44477892e5b1a44b6b1be3a26f7abd3ee06543f.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-id="13852" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091921731943_14.png" group-title="其它",[BD]cctv10@@18
+#EXTINF:-1 tvg-name="CCTV10" tvg-id="13852" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091921731943_14.png" group-title="其它",[VGA]cctv10@@18[geo-blocked]
 https://epg.pw/stream/eda703fff53e38655071972d02dbb7b599faa57b720e828bd35d8db2f4dff147.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-id="13852" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091921731943_14.png" group-title="其它",[BD]cctv10@@23[ipv6]
 https://epg.pw/stream/cc782ceeaaa1103be2593c8ad493ee337d4abd4f903f28d9fa21016020914069.m3u8
@@ -677,8 +677,10 @@ https://epg.pw/stream/eef2b281a9917d995116ada3ac32e08bb7646c69032836605df0779686
 https://epg.pw/stream/0f61bd806b866f29393a7136164cca9cbbb33ff8164860d21d39a52dfb54e397.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-id="13861" tvg-country="中國大陸" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2020/03/22/large/20200322211010158445_97.png" group-title="新聞",[SD]cgtn@@9[geo-blocked]
 https://epg.pw/stream/06c5a5053c524b666355da3903574c3f4f9d3c26808c38ef3f0478870ef8f8b4.m3u8
-#EXTINF:-1 tvg-name="CGTN Documentary" tvg-id="" tvg-country="中國大陸" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/04/29/large/20220429020115798784_73.png" group-title="知識",[SD]cgtn documentary (576p) [not 24/7]
+#EXTINF:-1 tvg-name="CGTN Documentary" tvg-id="" tvg-country="中國大陸" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/04/29/large/20220429020115798784_73.png" group-title="知識",[SD]cgtn documentary (576p) [not 24/7][geo-blocked]
 https://epg.pw/stream/8ff8ea4b111b7d3afdd4c5af57ae9459478b741439ddbb3dea494798ba8896dc.m3u8
+#EXTINF:-1 tvg-name="CGTN Documentary" tvg-id="" tvg-country="中國大陸" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/04/29/large/20220429020115798784_73.png" group-title="知識",[SD]cgtn documentary@@1
+https://epg.pw/stream/6d34bb468001fdfe56553b6fa75a5ff1b3583f303f5d8b1a35ca95e2938220d4.ctv
 #EXTINF:-1 tvg-name="CGTN Documentary" tvg-id="" tvg-country="中國大陸" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/04/29/large/20220429020115798784_73.png" group-title="知識",[BD]rt documentary@@1[geo-blocked]
 https://epg.pw/stream/17c683bfe2af80df91cde033f727462d88a0a9a485a88ee1d3dfe59b50b01e97.m3u8
 #EXTINF:-1 tvg-name="CGTN Documentary" tvg-id="" tvg-country="中國大陸" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/04/29/large/20220429020115798784_73.png" group-title="知識",[BD]cgtndocumentary@@2[ipv6]
@@ -1213,7 +1215,7 @@ https://epg.pw/stream/98ab12564b7b628ceb5baa1b37c2b587f3de86e80797d3373588316443
 https://epg.pw/stream/1f37ada8ec63d6d2623d898ff82f5857cf910ece88858b948e375e0b76e50c4c.m3u8
 #EXTINF:-1 tvg-name="吉林生活" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530224423300523_72.jpg" group-title="其它",[VGA]吉林生活
 https://epg.pw/stream/cfdae68ed13101b24c3b148b6a523a8d72dad820a6040cc92d35a94bd6c47a36.m3u8
-#EXTINF:-1 tvg-name="吉林衛視" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530224224814638_67.jpg" group-title="綜合",[HD]吉林卫视v[geo-blocked]
+#EXTINF:-1 tvg-name="吉林衛視" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530224224814638_67.jpg" group-title="綜合",[BD]吉林卫视v[geo-blocked]
 https://epg.pw/stream/ba4638b7178314a10cfc89e46f24b0912a8a5a037112f3985b7b2555de859d73.ctv
 #EXTINF:-1 tvg-name="吉林衛視" tvg-id="13892" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530224224814638_67.jpg" group-title="綜合",[VGA]吉林卫视
 https://epg.pw/stream/657b3cc8f2106d0e0b52d0bc7f0e15db544b37b3e86bf5f486f351b9db61fa2e.m3u8
@@ -1367,7 +1369,7 @@ https://epg.pw/stream/a700de96dc13188f1532d89bbb699c4232e8c8c62418eaca13e737017e
 https://epg.pw/stream/c38103fa730bdc04dcfb532eda5212f459715542248468a180c58faf27e07c68.m3u8
 #EXTINF:-1 tvg-name="天津衛視" tvg-id="13880" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123011224766299_56.jpg" group-title="綜合",[SD]天津卫视@@17
 https://epg.pw/stream/2dd1a6ea28a3b6de7ef9c33c4c198391bf030e525c9e16e82ab039aad1d70d8f.m3u8
-#EXTINF:-1 tvg-name="天津衛視" tvg-id="13880" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123011224766299_56.jpg" group-title="綜合",[VGA]天津卫视@@8[geo-blocked]
+#EXTINF:-1 tvg-name="天津衛視" tvg-id="13880" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123011224766299_56.jpg" group-title="綜合",[BD]天津卫视@@8
 https://epg.pw/stream/c53b590edd83259c81e0c7236308f727d152af9ddb24496c8db1485b6a046e32.m3u8
 #EXTINF:-1 tvg-name="天津衛視" tvg-id="13880" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123011224766299_56.jpg" group-title="綜合",[BD]天津卫视@@11[ipv6]
 https://epg.pw/stream/f37f043d64a5cf5ce745d4b08ffc152f44296419a9bf05d27b8bb6f54177ad0c.m3u8
